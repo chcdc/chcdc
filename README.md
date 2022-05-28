@@ -8,6 +8,16 @@
 - :bar_chart: this week i spent my time on:
 
 <!--START_SECTION:waka-->
+
+```text
+Go           11 hrs 24 mins  ███████████▓░░░░░░░░░░░░░   46.81 %
+Terraform    7 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+HCL          2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+INI          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Docker       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
