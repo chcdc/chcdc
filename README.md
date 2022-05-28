@@ -1,29 +1,27 @@
-- :telescope: I'm working as an infrastructure Analyst for payment services.
+
+- :telescope: I'm working as an SRE/DevOps for payment services.
 
 - :seedling: Exploring Technical Content Writing.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+- :bar_chart: this week i spent my time on:
 
-<div>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Ansible" **alt="Ansible" width="40" height="40" /></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="Google Cloud" **alt="Google Cloud" width="40" height="40"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="40" height="40"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" title="Terraform" **alt="Terraform" width="40" height="40"/></code>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chcdc&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=chcdc&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chcdc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=chcdc&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chcdc)](https://github.com/anuraghazra/github-readme-stats)
+---
+<!--
+🏢 The Office quote of day
+-->
 
-
-bar_chart this week i spent my time on:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
