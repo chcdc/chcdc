@@ -6,22 +6,6 @@
 
 ---
 
-- :bar_chart: this week i spent my time on:
-
-<!--START_SECTION:waka-->
-
-```text
-Python       11 hrs 4 mins   █████████▓░░░░░░░░░░░░░░░   39.10 %
-YAML         7 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-Terraform    7 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
-Go           1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Bash         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Vim Script   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
-<!--END_SECTION:waka-->
-
----
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=chcdc&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
