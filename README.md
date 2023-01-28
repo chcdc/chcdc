@@ -16,7 +16,6 @@
 </p>
 
 ---
-<!--
-🏢 The Office quote of day
--->
+<!-- xkcd -->
+<!-- xkcd -->
 
