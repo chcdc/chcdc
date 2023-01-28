@@ -17,5 +17,5 @@
 
 ---
 <!-- xkcd -->
-<!-- xkcd -->
+<p align="center">Code Lifespan</br><img src="https://imgs.xkcd.com/comics/code_lifespan.png"></br>alt: Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)</br></p></table></p> 
 
