@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Code Lifespan</br><img src="https://imgs.xkcd.com/comics/code_lifespan.png"></br>alt: Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)</br></p></table></p> 
+<p align="center">K-Means Clustering</br><img src="https://imgs.xkcd.com/comics/k_means_clustering.png"></br>alt: According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.</br></p></table></p> 
 
 
 <!-- xkcd -->
