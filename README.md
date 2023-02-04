@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bursa of Fabricius</br><img src="https://imgs.xkcd.com/comics/bursa_of_fabricius.png"></br>alt: If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research.</br></p></table></p> 
+<p align="center">Size Comparisons</br><img src="https://imgs.xkcd.com/comics/size_comparisons.png"></br>alt: If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.</br></p></table></p> 
 
 
 <!-- xkcd -->
