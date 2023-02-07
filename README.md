@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Size Comparisons</br><img src="https://imgs.xkcd.com/comics/size_comparisons.png"></br>alt: If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.</br></p></table></p> 
+<p align="center">Electron Color</br><img src="https://imgs.xkcd.com/comics/electron_color.png"></br>alt: There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.</br></p></table></p> 
 
 
 <!-- xkcd -->
