@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Weather Station</br><img src="https://imgs.xkcd.com/comics/weather_station.png"></br>alt: 'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge.</br></p></table></p> 
+<p align="center">Omniknot</br><img src="https://imgs.xkcd.com/comics/omniknot.png"></br>alt: The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.</br></p></table></p> 
 
 
 <!-- xkcd -->
