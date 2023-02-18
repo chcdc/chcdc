@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Omniknot</br><img src="https://imgs.xkcd.com/comics/omniknot.png"></br>alt: The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.</br></p></table></p> 
+<p align="center">Data Quality</br><img src="https://imgs.xkcd.com/comics/data_quality.png"></br>alt: [exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]</br></p></table></p> 
 
 
 <!-- xkcd -->
