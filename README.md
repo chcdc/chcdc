@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Square Packing</br><img src="https://imgs.xkcd.com/comics/square_packing.png"></br>alt: I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96.</br></p></table></p> 
+<p align="center">Wish Interpretation</br><img src="https://imgs.xkcd.com/comics/wish_interpretation.png"></br>alt: "I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."</br></p></table></p> 
 
 
 <!-- xkcd -->
