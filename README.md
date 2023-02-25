@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Wish Interpretation</br><img src="https://imgs.xkcd.com/comics/wish_interpretation.png"></br>alt: "I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."</br></p></table></p> 
+<p align="center">Island Storage</br><img src="https://imgs.xkcd.com/comics/island_storage.png"></br>alt: I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.</br></p></table></p> 
 
 
 <!-- xkcd -->
