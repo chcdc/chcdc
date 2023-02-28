@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Island Storage</br><img src="https://imgs.xkcd.com/comics/island_storage.png"></br>alt: I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.</br></p></table></p> 
+<p align="center">Hand Dryers</br><img src="https://imgs.xkcd.com/comics/hand_dryers.png"></br>alt: I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.</br></p></table></p> 
 
 
 <!-- xkcd -->
