@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Hand Dryers</br><img src="https://imgs.xkcd.com/comics/hand_dryers.png"></br>alt: I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.</br></p></table></p> 
+<p align="center">Fanservice</br><img src="https://imgs.xkcd.com/comics/fanservice.png"></br>alt: I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."</br></p></table></p> 
 
 
 <!-- xkcd -->
