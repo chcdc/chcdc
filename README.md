@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Fanservice</br><img src="https://imgs.xkcd.com/comics/fanservice.png"></br>alt: I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."</br></p></table></p> 
+<p align="center">Obituary Editor</br><img src="https://imgs.xkcd.com/comics/obituary_editor.png"></br>alt: As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.</br></p></table></p> 
 
 
 <!-- xkcd -->
