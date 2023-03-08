@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Obituary Editor</br><img src="https://imgs.xkcd.com/comics/obituary_editor.png"></br>alt: As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.</br></p></table></p> 
+<p align="center">Launch Window</br><img src=https://imgs.xkcd.com/comics/launch_window.png></br><font size =2>alt: "Confirmed, we have to scrub." "Ugh, okay. I'll get the bucket and sponge."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
