@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: xkcd-to-markdown
-        uses: chcdc/xkcd-profile@v0.1
+        uses: chcdc/xkcd-profile@v1
       - name: commit changes
         continue-on-error: true
         run: |
