@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Launch Window</br><img src=https://imgs.xkcd.com/comics/launch_window.png></br><font size =2>alt: "Confirmed, we have to scrub." "Ugh, okay. I'll get the bucket and sponge."</br></font></p></table></p> 
+<p align="center">Presents for Biologists</br><img src=https://imgs.xkcd.com/comics/presents_for_biologists.png></br><font size =2>alt: A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
