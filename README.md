@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Lymphocytes</br><img src=https://imgs.xkcd.com/comics/lymphocytes.png></br><font size =2>alt: It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'</br></font></p></table></p> 
+<p align="center">Flatten the Planets</br><img src=https://imgs.xkcd.com/comics/flatten_the_planets.png></br><font size =2>alt: We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
