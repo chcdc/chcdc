@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Air Handler</br><img src=https://imgs.xkcd.com/comics/air_handler.png></br><font size =2>alt: It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.</br></font></p></table></p> 
+<p align="center">Relative Terms</br><img src=https://imgs.xkcd.com/comics/relative_terms.png></br><font size =2>alt: Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
