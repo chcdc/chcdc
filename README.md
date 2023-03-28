@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Relative Terms</br><img src=https://imgs.xkcd.com/comics/relative_terms.png></br><font size =2>alt: Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.</br></font></p></table></p> 
+<p align="center">Effect Size</br><img src=https://imgs.xkcd.com/comics/effect_size.png></br><font size =2>alt: Subgroup analysis is ongoing.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
