@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Qualifications</br><img src=https://imgs.xkcd.com/comics/qualifications.png></br><font size =2>alt: 'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'</br></font></p></table></p> 
+<p align="center">Towed Message</br><img src=https://imgs.xkcd.com/comics/towed_message.png></br><font size =2>alt: "Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"</br></font></p></table></p> 
 
 
 <!-- xkcd -->
