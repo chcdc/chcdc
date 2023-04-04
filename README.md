@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Towed Message</br><img src=https://imgs.xkcd.com/comics/towed_message.png></br><font size =2>alt: "Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"</br></font></p></table></p> 
+<p align="center">My Favorite Things</br><img src=https://imgs.xkcd.com/comics/my_favorite_things.png></br><font size =2>alt: When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / "I got a bad deal / I'm maaaaad"</br></font></p></table></p> 
 
 
 <!-- xkcd -->
