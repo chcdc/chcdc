@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">My Favorite Things</br><img src=https://imgs.xkcd.com/comics/my_favorite_things.png></br><font size =2>alt: When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / "I got a bad deal / I'm maaaaad"</br></font></p></table></p> 
+<p align="center">Easily Confused Acronyms</br><img src=https://imgs.xkcd.com/comics/easily_confused_acronyms.png></br><font size =2>alt: 'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
