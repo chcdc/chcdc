@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Easily Confused Acronyms</br><img src=https://imgs.xkcd.com/comics/easily_confused_acronyms.png></br><font size =2>alt: 'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.</br></font></p></table></p> 
+<p align="center">Paleontology Museum</br><img src=https://imgs.xkcd.com/comics/paleontology_museum.png></br><font size =2>alt: Nowadays the only ones left that do anything are turtles.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
