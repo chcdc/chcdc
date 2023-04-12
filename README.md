@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Paleontology Museum</br><img src=https://imgs.xkcd.com/comics/paleontology_museum.png></br><font size =2>alt: Nowadays the only ones left that do anything are turtles.</br></font></p></table></p> 
+<p align="center">1-to-1 Scale</br><img src=https://imgs.xkcd.com/comics/1_to_1_scale.png></br><font size =2>alt: There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
