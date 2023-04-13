@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">1-to-1 Scale</br><img src=https://imgs.xkcd.com/comics/1_to_1_scale.png></br><font size =2>alt: There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.</br></font></p></table></p> 
+<p align="center">Diffraction Spikes</br><img src=https://imgs.xkcd.com/comics/diffraction_spikes.png></br><font size =2>alt: Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
