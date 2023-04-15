@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Diffraction Spikes</br><img src=https://imgs.xkcd.com/comics/diffraction_spikes.png></br><font size =2>alt: Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.</br></font></p></table></p> 
+<p align="center">Linguistics Gossip</br><img src=https://imgs.xkcd.com/comics/linguistics_gossip.png></br><font size =2>alt: The E's wedding invitation definitely used the word LOVE more times than was strictly necessary.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
