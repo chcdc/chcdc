@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Cosmological Nostalgia Content</br><img src=https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png></br><font size =2>alt: Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career.</br></font></p></table></p> 
+<p align="center">Escape Speed</br><img src=https://imgs.xkcd.com/comics/escape_speed.png></br><font size =2>alt: Gotta go fast</br></font></p></table></p> 
 
 
 <!-- xkcd -->
