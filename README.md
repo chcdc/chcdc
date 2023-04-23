@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Escape Speed</br><img src=https://imgs.xkcd.com/comics/escape_speed.png></br><font size =2>alt: Gotta go fast</br></font></p></table></p> 
+<p align="center">Helium Reserve</br><img src=https://imgs.xkcd.com/comics/helium_reserve.png></br><font size =2>alt: The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
