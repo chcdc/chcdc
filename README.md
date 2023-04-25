@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Helium Reserve</br><img src=https://imgs.xkcd.com/comics/helium_reserve.png></br><font size =2>alt: The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.</br></font></p></table></p> 
+<p align="center">Recipe Relativity</br><img src=https://imgs.xkcd.com/comics/recipe_relativity.png></br><font size =2>alt: It says to cut the onions into 1/4" slices, but I'd better correct for length contraction.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
