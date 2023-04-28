@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Recipe Relativity</br><img src=https://imgs.xkcd.com/comics/recipe_relativity.png></br><font size =2>alt: It says to cut the onions into 1/4" slices, but I'd better correct for length contraction.</br></font></p></table></p> 
+<p align="center">Definition of e</br><img src=https://imgs.xkcd.com/comics/definition_of_e.png></br><font size =2>alt: Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
