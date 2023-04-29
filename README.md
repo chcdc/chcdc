@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Definition of e</br><img src=https://imgs.xkcd.com/comics/definition_of_e.png></br><font size =2>alt: Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.</br></font></p></table></p> 
+<p align="center">Overlapping Circles</br><img src=https://imgs.xkcd.com/comics/overlapping_circles.png></br><font size =2>alt: "The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality</br></font></p></table></p> 
 
 
 <!-- xkcd -->
