@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Overlapping Circles</br><img src=https://imgs.xkcd.com/comics/overlapping_circles.png></br><font size =2>alt: "The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality</br></font></p></table></p> 
+<p align="center">Tapetum Lucidum</br><img src=https://imgs.xkcd.com/comics/tapetum_lucidum.png></br><font size =2>alt: Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
