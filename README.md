@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Tapetum Lucidum</br><img src=https://imgs.xkcd.com/comics/tapetum_lucidum.png></br><font size =2>alt: Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum.</br></font></p></table></p> 
+<p align="center">College Knowledge</br><img src=https://imgs.xkcd.com/comics/college_knowledge.png></br><font size =2>alt: 'Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!' --common playground taunt</br></font></p></table></p> 
 
 
 <!-- xkcd -->
