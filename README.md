@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Crystal Ball</br><img src=https://imgs.xkcd.com/comics/crystal_ball.png></br><font size =2>alt: They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball.</br></font></p></table></p> 
+<p align="center">Noise Filter</br><img src=https://imgs.xkcd.com/comics/noise_filter.png></br><font size =2>alt: Party Mode also enables the feature, but reverses the slider.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
