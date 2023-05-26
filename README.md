@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Exoplanet High-5</br><img src=https://imgs.xkcd.com/comics/exoplanet_high_5.png></br><font size =2>alt: Tau Ceti is farther away, so it took me 36 years to start the war over updog.</br></font></p></table></p> 
+<p align="center">Physical Quantities</br><img src=https://imgs.xkcd.com/comics/physical_quantities.png></br><font size =2>alt: The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
