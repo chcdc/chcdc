@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Physical Quantities</br><img src=https://imgs.xkcd.com/comics/physical_quantities.png></br><font size =2>alt: The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.</br></font></p></table></p> 
+<p align="center">The Six Platonic Solids</br><img src=https://imgs.xkcd.com/comics/the_six_platonic_solids.png></br><font size =2>alt: Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
