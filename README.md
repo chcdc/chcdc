@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Wikipedia Article Titles</br><img src=https://imgs.xkcd.com/comics/wikipedia_article_titles.png></br><font size =2>alt: I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag.</br></font></p></table></p> 
+<p align="center">Ruling Out</br><img src=https://imgs.xkcd.com/comics/ruling_out.png></br><font size =2>alt: We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
