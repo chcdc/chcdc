@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Marble Run</br><img src=https://imgs.xkcd.com/comics/marble_run.png></br><font size =2>alt: I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides.</br></font></p></table></p> 
+<p align="center">UFO Evidence</br><img src=https://imgs.xkcd.com/comics/ufo_evidence.png></br><font size =2>alt: [Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
