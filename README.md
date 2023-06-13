@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Iceberg</br><img src=https://imgs.xkcd.com/comics/iceberg.png></br><font size =2>alt: 90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.</br></font></p></table></p> 
+<p align="center">Musical Scales</br><img src=https://imgs.xkcd.com/comics/musical_scales.png></br><font size =2>alt: In the Hall of the Mountain King was accidentally composed on log/log paper.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
