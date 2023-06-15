@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Musical Scales</br><img src=https://imgs.xkcd.com/comics/musical_scales.png></br><font size =2>alt: In the Hall of the Mountain King was accidentally composed on log/log paper.</br></font></p></table></p> 
+<p align="center">Making Plans</br><img src=https://imgs.xkcd.com/comics/making_plans.png></br><font size =2>alt: Oh no, I haven't checked in with Yvonne in YEARS.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
