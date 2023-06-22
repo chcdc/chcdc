@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bookshelf Sorting</br><img src=https://imgs.xkcd.com/comics/bookshelf_sorting.png></br><font size =2>alt: Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence).</br></font></p></table></p> 
+<p align="center">Summer Solstice</br><img src=https://imgs.xkcd.com/comics/summer_solstice.png></br><font size =2>alt: Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)</br></font></p></table></p> 
 
 
 <!-- xkcd -->
