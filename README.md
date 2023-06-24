@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Summer Solstice</br><img src=https://imgs.xkcd.com/comics/summer_solstice.png></br><font size =2>alt: Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)</br></font></p></table></p> 
+<p align="center">Garden Path Sentence</br><img src=https://imgs.xkcd.com/comics/garden_path_sentence.png></br><font size =2>alt: Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing</br></font></p></table></p> 
 
 
 <!-- xkcd -->
