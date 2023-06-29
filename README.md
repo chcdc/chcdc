@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Alphabet Notes</br><img src=https://imgs.xkcd.com/comics/alphabet_notes.png></br><font size =2>alt: Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!</br></font></p></table></p> 
+<p align="center">Glass-Topped Table</br><img src=https://imgs.xkcd.com/comics/glass_topped_table.png></br><font size =2>alt: You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
