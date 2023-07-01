@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Glass-Topped Table</br><img src=https://imgs.xkcd.com/comics/glass_topped_table.png></br><font size =2>alt: You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.</br></font></p></table></p> 
+<p align="center">Real Estate Analysis</br><img src=https://imgs.xkcd.com/comics/real_estate_analysis.png></br><font size =2>alt: Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
