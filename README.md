@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Real Estate Analysis</br><img src=https://imgs.xkcd.com/comics/real_estate_analysis.png></br><font size =2>alt: Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class.</br></font></p></table></p> 
+<p align="center">Actual Progress</br><img src=https://imgs.xkcd.com/comics/actual_progress.png></br><font size =2>alt: Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
