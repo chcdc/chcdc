@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Actual Progress</br><img src=https://imgs.xkcd.com/comics/actual_progress.png></br><font size =2>alt: Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'</br></font></p></table></p> 
+<p align="center">Room Temperature</br><img src=https://imgs.xkcd.com/comics/room_temperature.png></br><font size =2>alt: They're also refusing to fund my device that demonstrates uncontrolled hot fusion.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
