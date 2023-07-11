@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Frankenstein Claim Permutations</br><img src=https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png></br><font size =2>alt: When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad.</br></font></p></table></p> 
+<p align="center">Down</br><img src=https://imgs.xkcd.com/comics/down.png></br><font size =2>alt: It's just that I get nervous about heights.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
