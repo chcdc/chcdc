@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Down</br><img src=https://imgs.xkcd.com/comics/down.png></br><font size =2>alt: It's just that I get nervous about heights.</br></font></p></table></p> 
+<p align="center">Contact Merge</br><img src=https://imgs.xkcd.com/comics/contact_merge.png></br><font size =2>alt: I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
