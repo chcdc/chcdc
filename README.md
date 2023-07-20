@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Geohydrotypography</br><img src=https://imgs.xkcd.com/comics/geohydrotypography.png></br><font size =2>alt: The Atlantic is expanding at about 10 ppm (points per month).</br></font></p></table></p> 
+<p align="center">Marshmallow</br><img src=https://imgs.xkcd.com/comics/marshmallow.png></br><font size =2>alt: The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
