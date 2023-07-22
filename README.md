@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Marshmallow</br><img src=https://imgs.xkcd.com/comics/marshmallow.png></br><font size =2>alt: The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores.</br></font></p></table></p> 
+<p align="center">Global Atmospheric Circulation</br><img src=https://imgs.xkcd.com/comics/global_atmospheric_circulation.png></br><font size =2>alt: Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
