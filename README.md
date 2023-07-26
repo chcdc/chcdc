@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Global Atmospheric Circulation</br><img src=https://imgs.xkcd.com/comics/global_atmospheric_circulation.png></br><font size =2>alt: Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling.</br></font></p></table></p> 
+<p align="center">Anti-Vaxxers</br><img src=https://imgs.xkcd.com/comics/anti_vaxxers.png></br><font size =2>alt: The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
