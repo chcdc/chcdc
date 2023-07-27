@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Anti-Vaxxers</br><img src=https://imgs.xkcd.com/comics/anti_vaxxers.png></br><font size =2>alt: The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses.</br></font></p></table></p> 
+<p align="center">Bad Map Projection: ABS(Longitude)</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png></br><font size =2>alt: Positive vibes/longitudes only</br></font></p></table></p> 
 
 
 <!-- xkcd -->
