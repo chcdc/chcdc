@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bad Map Projection: ABS(Longitude)</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png></br><font size =2>alt: Positive vibes/longitudes only</br></font></p></table></p> 
+<p align="center">Daytime Firefly</br><img src=https://imgs.xkcd.com/comics/daytime_firefly.png></br><font size =2>alt: Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
