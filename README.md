@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Daytime Firefly</br><img src=https://imgs.xkcd.com/comics/daytime_firefly.png></br><font size =2>alt: Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!</br></font></p></table></p> 
+<p align="center">Moon</br><img src=https://imgs.xkcd.com/comics/moon.png></br><font size =2>alt: I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
