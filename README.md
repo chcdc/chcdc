@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Moon</br><img src=https://imgs.xkcd.com/comics/moon.png></br><font size =2>alt: I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts.</br></font></p></table></p> 
+<p align="center">How to Coil a Cable</br><img src=https://imgs.xkcd.com/comics/how_to_coil_a_cable.png></br><font size =2>alt: The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
