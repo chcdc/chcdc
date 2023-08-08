@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Free Fallin'</br><img src=https://imgs.xkcd.com/comics/free_fallin.png></br><font size =2>alt: Their crash investigation team had some particularly harsh words for Dave Matthews.</br></font></p></table></p> 
+<p align="center">Solar Panel Placement</br><img src=https://imgs.xkcd.com/comics/solar_panel_placement.png></br><font size =2>alt: Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
