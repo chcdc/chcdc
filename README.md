@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Solar Panel Placement</br><img src=https://imgs.xkcd.com/comics/solar_panel_placement.png></br><font size =2>alt: Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.</br></font></p></table></p> 
+<p align="center">What to Do</br><img src=https://imgs.xkcd.com/comics/what_to_do.png></br><font size =2>alt: FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
