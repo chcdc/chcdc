@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">What to Do</br><img src=https://imgs.xkcd.com/comics/what_to_do.png></br><font size =2>alt: FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.</br></font></p></table></p> 
+<p align="center">Perseids Pronunciation</br><img src=https://imgs.xkcd.com/comics/perseids_pronunciation.png></br><font size =2>alt: When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)</br></font></p></table></p> 
 
 
 <!-- xkcd -->
