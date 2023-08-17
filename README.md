@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Car Wash</br><img src=https://imgs.xkcd.com/comics/car_wash.png></br><font size =2>alt: I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.</br></font></p></table></p> 
+<p align="center">Types of Solar Eclipse</br><img src=https://imgs.xkcd.com/comics/types_of_solar_eclipse.png></br><font size =2>alt: The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
