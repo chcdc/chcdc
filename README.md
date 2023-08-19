@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Types of Solar Eclipse</br><img src=https://imgs.xkcd.com/comics/types_of_solar_eclipse.png></br><font size =2>alt: The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface.</br></font></p></table></p> 
+<p align="center">Electron Holes</br><img src=https://imgs.xkcd.com/comics/electron_holes.png></br><font size =2>alt: They tried to report me to the authorities, but because I had the device they couldn't charge me.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
