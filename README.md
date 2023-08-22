@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Electron Holes</br><img src=https://imgs.xkcd.com/comics/electron_holes.png></br><font size =2>alt: They tried to report me to the authorities, but because I had the device they couldn't charge me.</br></font></p></table></p> 
+<p align="center">Circuit Symbols</br><img src=https://imgs.xkcd.com/comics/circuit_symbols.png></br><font size =2>alt: A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
