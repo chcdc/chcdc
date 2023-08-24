@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Circuit Symbols</br><img src=https://imgs.xkcd.com/comics/circuit_symbols.png></br><font size =2>alt: A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.</br></font></p></table></p> 
+<p align="center">Pronunciation</br><img src=https://imgs.xkcd.com/comics/pronunciation.png></br><font size =2>alt: I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
