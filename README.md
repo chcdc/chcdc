@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Pronunciation</br><img src=https://imgs.xkcd.com/comics/pronunciation.png></br><font size =2>alt: I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'.</br></font></p></table></p> 
+<p align="center">Inspiration</br><img src=https://imgs.xkcd.com/comics/inspiration.png></br><font size =2>alt: An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
