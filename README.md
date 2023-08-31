@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Path Minimization</br><img src=https://imgs.xkcd.com/comics/path_minimization.png></br><font size =2>alt: Of course you get an ice cream cone for the swimmer too! You're not a monster.</br></font></p></table></p> 
+<p align="center">*@gmail.com</br><img src=https://imgs.xkcd.com/comics/gmail_com.png></br><font size =2>alt: Hi all, just replying to loop in *@outlook.com and *@yahoo.com.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
