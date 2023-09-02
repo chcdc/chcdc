@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">*@gmail.com</br><img src=https://imgs.xkcd.com/comics/gmail_com.png></br><font size =2>alt: Hi all, just replying to loop in *@outlook.com and *@yahoo.com.</br></font></p></table></p> 
+<p align="center">Fossil</br><img src=https://imgs.xkcd.com/comics/fossil.png></br><font size =2>alt: The two best reasons to get into fossils are booping trilobites and getting to say the word "fossiliferous" a lot.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
