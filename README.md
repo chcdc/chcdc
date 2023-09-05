@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Fossil</br><img src=https://imgs.xkcd.com/comics/fossil.png></br><font size =2>alt: The two best reasons to get into fossils are booping trilobites and getting to say the word "fossiliferous" a lot.</br></font></p></table></p> 
+<p align="center">Abstract Pickup</br><img src=https://imgs.xkcd.com/comics/abstract_pickup.png></br><font size =2>alt: Escape Artist Frees Self From Conversation With Pickup Artist</br></font></p></table></p> 
 
 
 <!-- xkcd -->
