@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Autumn and Fall</br><img src=https://imgs.xkcd.com/comics/autumn_and_fall.png></br><font size =2>alt: Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season.</br></font></p></table></p> 
+<p align="center">Gold</br><img src=https://imgs.xkcd.com/comics/gold.png></br><font size =2>alt: It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
