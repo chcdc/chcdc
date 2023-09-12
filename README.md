@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Gold</br><img src=https://imgs.xkcd.com/comics/gold.png></br><font size =2>alt: It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.</br></font></p></table></p> 
+<p align="center">Brassica</br><img src=https://imgs.xkcd.com/comics/brassica.png></br><font size =2>alt: Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
