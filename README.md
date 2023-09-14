@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Brassica</br><img src=https://imgs.xkcd.com/comics/brassica.png></br><font size =2>alt: Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.</br></font></p></table></p> 
+<p align="center">Exoplanet Observation</br><img src=https://imgs.xkcd.com/comics/exoplanet_observation.png></br><font size =2>alt: NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
