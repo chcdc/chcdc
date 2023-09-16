@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Exoplanet Observation</br><img src=https://imgs.xkcd.com/comics/exoplanet_observation.png></br><font size =2>alt: NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'</br></font></p></table></p> 
+<p align="center">Iceberg Efficiency</br><img src=https://imgs.xkcd.com/comics/iceberg_efficiency.png></br><font size =2>alt: Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
