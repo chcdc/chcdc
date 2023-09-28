@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Lying</br><img src=https://imgs.xkcd.com/comics/lying.png></br><font size =2>alt: I was, at least at the start of this disastrous game night, your friend.</br></font></p></table></p> 
+<p align="center">Book Podcasts</br><img src=https://imgs.xkcd.com/comics/book_podcasts.png></br><font size =2>alt: I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
