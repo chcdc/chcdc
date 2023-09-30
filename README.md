@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Book Podcasts</br><img src=https://imgs.xkcd.com/comics/book_podcasts.png></br><font size =2>alt: I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!</br></font></p></table></p> 
+<p align="center">Factorial Numbers</br><img src=https://imgs.xkcd.com/comics/factorial_numbers.png></br><font size =2>alt: So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
