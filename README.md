@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">A Halloween Carol</br><img src=https://imgs.xkcd.com/comics/a_halloween_carol.png></br><font size =2>alt: [after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"</br></font></p></table></p> 
+<p align="center">Odyssey</br><img src=https://imgs.xkcd.com/comics/odyssey.png></br><font size =2>alt: Ugh, it says they attempted delivery but "Nobody was home."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
