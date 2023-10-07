@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Odyssey</br><img src=https://imgs.xkcd.com/comics/odyssey.png></br><font size =2>alt: Ugh, it says they attempted delivery but "Nobody was home."</br></font></p></table></p> 
+<p align="center">Dubious Islands</br><img src=https://imgs.xkcd.com/comics/dubious_islands.png></br><font size =2>alt: Running for office in Minnesota on the single-issue platform 'dig a permanent channel through the Traverse Gap because it will make this map more satisfying.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
