@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Professional Oaths</br><img src=https://imgs.xkcd.com/comics/professional_oaths.png></br><font size =2>alt: Interpretations of the Hermeneutic Oath differ.</br></font></p></table></p> 
+<p align="center">Black Holes vs Regular Holes</br><img src=https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png></br><font size =2>alt: Created by the collapse of: [massive stars] [Florida limestone bedrock]</br></font></p></table></p> 
 
 
 <!-- xkcd -->
