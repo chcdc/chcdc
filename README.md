@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Black Holes vs Regular Holes</br><img src=https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png></br><font size =2>alt: Created by the collapse of: [massive stars] [Florida limestone bedrock]</br></font></p></table></p> 
+<p align="center">Extinction Mechanisms</br><img src=https://imgs.xkcd.com/comics/extinction_mechanisms.png></br><font size =2>alt: The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
