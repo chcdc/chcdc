@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Extinction Mechanisms</br><img src=https://imgs.xkcd.com/comics/extinction_mechanisms.png></br><font size =2>alt: The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment.</br></font></p></table></p> 
+<p align="center">Daylight Saving Choice</br><img src=https://imgs.xkcd.com/comics/daylight_saving_choice.png></br><font size =2>alt: I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
