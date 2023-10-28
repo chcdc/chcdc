@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Daylight Saving Choice</br><img src=https://imgs.xkcd.com/comics/daylight_saving_choice.png></br><font size =2>alt: I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.</br></font></p></table></p> 
+<p align="center">Dendrochronology</br><img src=https://imgs.xkcd.com/comics/dendrochronology.png></br><font size =2>alt: These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
