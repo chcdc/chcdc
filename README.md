@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Dendrochronology</br><img src=https://imgs.xkcd.com/comics/dendrochronology.png></br><font size =2>alt: These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree.</br></font></p></table></p> 
+<p align="center">Breaker Box</br><img src=https://imgs.xkcd.com/comics/breaker_box.png></br><font size =2>alt: Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
