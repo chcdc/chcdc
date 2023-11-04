@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Under the Stars</br><img src=https://imgs.xkcd.com/comics/under_the_stars.png></br><font size =2>alt: If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.</br></font></p></table></p> 
+<p align="center">Doctor's Office</br><img src=https://imgs.xkcd.com/comics/doctors_office.png></br><font size =2>alt: "The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
