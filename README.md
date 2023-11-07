@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Doctor's Office</br><img src=https://imgs.xkcd.com/comics/doctors_office.png></br><font size =2>alt: "The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."</br></font></p></table></p> 
+<p align="center">Messier Objects</br><img src=https://imgs.xkcd.com/comics/messier_objects.png></br><font size =2>alt: The debate over the correct Messier number for the Ship of Theseus is ongoing.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
