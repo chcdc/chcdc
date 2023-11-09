@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Messier Objects</br><img src=https://imgs.xkcd.com/comics/messier_objects.png></br><font size =2>alt: The debate over the correct Messier number for the Ship of Theseus is ongoing.</br></font></p></table></p> 
+<p align="center">Parameterball</br><img src=https://imgs.xkcd.com/comics/parameterball.png></br><font size =2>alt: The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
