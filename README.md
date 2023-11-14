@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Redshift</br><img src=https://imgs.xkcd.com/comics/redshift.png></br><font size =2>alt: So do you have any plans for z=-0.000000000000045?</br></font></p></table></p> 
+<p align="center">Date Line</br><img src=https://imgs.xkcd.com/comics/date_line.png></br><font size =2>alt: They estimate the rocket should be free by approximately ... uh ... well, in about two hours.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
