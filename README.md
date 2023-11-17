@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Date Line</br><img src=https://imgs.xkcd.com/comics/date_line.png></br><font size =2>alt: They estimate the rocket should be free by approximately ... uh ... well, in about two hours.</br></font></p></table></p> 
+<p align="center">Empiricism</br><img src=https://imgs.xkcd.com/comics/empiricism.png></br><font size =2>alt: The problems started with my resolution next year to reject temporal causality.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
