@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Empiricism</br><img src=https://imgs.xkcd.com/comics/empiricism.png></br><font size =2>alt: The problems started with my resolution next year to reject temporal causality.</br></font></p></table></p> 
+<p align="center">Materials Scientists</br><img src=https://imgs.xkcd.com/comics/materials_scientists.png></br><font size =2>alt: If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
