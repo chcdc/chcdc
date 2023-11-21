@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Materials Scientists</br><img src=https://imgs.xkcd.com/comics/materials_scientists.png></br><font size =2>alt: If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.</br></font></p></table></p> 
+<p align="center">Rebuttals</br><img src=https://imgs.xkcd.com/comics/rebuttals.png></br><font size =2>alt: The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
