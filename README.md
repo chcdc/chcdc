@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Thanksgiving Arguments</br><img src=https://imgs.xkcd.com/comics/thanksgiving_arguments.png></br><font size =2>alt: An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.</br></font></p></table></p> 
+<p align="center">Oceanography Gift</br><img src=https://imgs.xkcd.com/comics/oceanography_gift.png></br><font size =2>alt: Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
