@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Oceanography Gift</br><img src=https://imgs.xkcd.com/comics/oceanography_gift.png></br><font size =2>alt: Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.</br></font></p></table></p> 
+<p align="center">Decay Modes</br><img src=https://imgs.xkcd.com/comics/decay_modes.png></br><font size =2>alt: Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
