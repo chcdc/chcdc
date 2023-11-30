@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Decay Modes</br><img src=https://imgs.xkcd.com/comics/decay_modes.png></br><font size =2>alt: Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.</br></font></p></table></p> 
+<p align="center">X Value</br><img src=https://imgs.xkcd.com/comics/x_value.png></br><font size =2>alt: The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
