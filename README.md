@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">X Value</br><img src=https://imgs.xkcd.com/comics/x_value.png></br><font size =2>alt: The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories.</br></font></p></table></p> 
+<p align="center">Typical Seating Chart</br><img src=https://imgs.xkcd.com/comics/typical_seating_chart.png></br><font size =2>alt: Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
