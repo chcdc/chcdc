@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Compact Graphs</br><img src=https://imgs.xkcd.com/comics/compact_graphs.png></br><font size =2>alt: People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.</br></font></p></table></p> 
+<p align="center">The Wrong Stuff</br><img src=https://imgs.xkcd.com/comics/the_wrong_stuff.png></br><font size =2>alt: The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
