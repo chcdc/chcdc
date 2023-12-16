@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">DateTime</br><img src=https://imgs.xkcd.com/comics/datetime.png></br><font size =2>alt: It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]</br></font></p></table></p> 
+<p align="center">Label the States</br><img src=https://imgs.xkcd.com/comics/label_the_states.png></br><font size =2>alt: Even with a blank map, a lot of people can only name 45-50 of the 64 states.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
