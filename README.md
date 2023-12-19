@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Label the States</br><img src=https://imgs.xkcd.com/comics/label_the_states.png></br><font size =2>alt: Even with a blank map, a lot of people can only name 45-50 of the 64 states.</br></font></p></table></p> 
+<p align="center">Puzzles</br><img src=https://imgs.xkcd.com/comics/puzzles.png></br><font size =2>alt: Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
