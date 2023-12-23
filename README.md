@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Love Songs</br><img src=https://imgs.xkcd.com/comics/love_songs.png></br><font size =2>alt: The Piña Colada song carves a trajectory across the chart over the course of the song.</br></font></p></table></p> 
+<p align="center">Definitely</br><img src=https://imgs.xkcd.com/comics/definitely.png></br><font size =2>alt: A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
