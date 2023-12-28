@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Hydrothermal Vents</br><img src=https://imgs.xkcd.com/comics/hydrothermal_vents.png></br><font size =2>alt: Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.</br></font></p></table></p> 
+<p align="center">Supersymmetry</br><img src=https://imgs.xkcd.com/comics/supersymmetry.png></br><font size =2>alt: High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
