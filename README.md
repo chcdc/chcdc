@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Supersymmetry</br><img src=https://imgs.xkcd.com/comics/supersymmetry.png></br><font size =2>alt: High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask.</br></font></p></table></p> 
+<p align="center">Iceland</br><img src=https://imgs.xkcd.com/comics/iceland.png></br><font size =2>alt: The HVAC bill for installing the Gulf Stream was enormous.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
