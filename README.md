@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Iceland</br><img src=https://imgs.xkcd.com/comics/iceland.png></br><font size =2>alt: The HVAC bill for installing the Gulf Stream was enormous.</br></font></p></table></p> 
+<p align="center">2024</br><img src=https://imgs.xkcd.com/comics/2024.png></br><font size =2>alt: It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
