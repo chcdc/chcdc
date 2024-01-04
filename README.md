@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">2024</br><img src=https://imgs.xkcd.com/comics/2024.png></br><font size =2>alt: It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth.</br></font></p></table></p> 
+<p align="center">Range Safety</br><img src=https://imgs.xkcd.com/comics/range_safety.png></br><font size =2>alt: The Range Mischief Officer has modified the trajectory to add a single random spin somewhere in the flight, but won't tell us where.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
