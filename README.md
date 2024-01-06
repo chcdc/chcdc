@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Range Safety</br><img src=https://imgs.xkcd.com/comics/range_safety.png></br><font size =2>alt: The Range Mischief Officer has modified the trajectory to add a single random spin somewhere in the flight, but won't tell us where.</br></font></p></table></p> 
+<p align="center">Fever</br><img src=https://imgs.xkcd.com/comics/fever.png></br><font size =2>alt: Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
