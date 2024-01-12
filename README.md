@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Supernova</br><img src=https://imgs.xkcd.com/comics/supernova.png></br><font size =2>alt: They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.</br></font></p></table></p> 
+<p align="center">Like This One</br><img src=https://imgs.xkcd.com/comics/like_this_one.png></br><font size =2>alt: A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
