@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Like This One</br><img src=https://imgs.xkcd.com/comics/like_this_one.png></br><font size =2>alt: A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'</br></font></p></table></p> 
+<p align="center">Sheet Bend</br><img src=https://imgs.xkcd.com/comics/sheet_bend.png></br><font size =2>alt: A left-handed sheet bend creates a much weaker connection, especially under moderate loads.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
