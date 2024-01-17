@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sheet Bend</br><img src=https://imgs.xkcd.com/comics/sheet_bend.png></br><font size =2>alt: A left-handed sheet bend creates a much weaker connection, especially under moderate loads.</br></font></p></table></p> 
+<p align="center">Bug Thread</br><img src=https://imgs.xkcd.com/comics/bug_thread.png></br><font size =2>alt: After some account issues, we've added 6 new people from the beach house rental website support forum.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
