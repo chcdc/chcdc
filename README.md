@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bug Thread</br><img src=https://imgs.xkcd.com/comics/bug_thread.png></br><font size =2>alt: After some account issues, we've added 6 new people from the beach house rental website support forum.</br></font></p></table></p> 
+<p align="center">Net Rotations</br><img src=https://imgs.xkcd.com/comics/net_rotations.png></br><font size =2>alt: For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
