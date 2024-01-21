@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Net Rotations</br><img src=https://imgs.xkcd.com/comics/net_rotations.png></br><font size =2>alt: For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.</br></font></p></table></p> 
+<p align="center">Astronaut Guests</br><img src=https://imgs.xkcd.com/comics/astronaut_guests.png></br><font size =2>alt: They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
