@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Log Alignment</br><img src=https://imgs.xkcd.com/comics/log_alignment.png></br><font size =2>alt: A video can have a log scale that's misaligned with both the time AND space axes.</br></font></p></table></p> 
+<p align="center">Spelling</br><img src=https://imgs.xkcd.com/comics/spelling.png></br><font size =2>alt: Any time I misspell a word it's just because I have too much integrity to copy answers from the dictionary.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
