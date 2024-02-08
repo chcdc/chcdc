@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Relationship Advice</br><img src=https://imgs.xkcd.com/comics/relationship_advice.png></br><font size =2>alt: Good to be a little wary of advice that sounds too much like a self pep talk.</br></font></p></table></p> 
+<p align="center">Log Cabin</br><img src=https://imgs.xkcd.com/comics/log_cabin.png></br><font size =2>alt: I'm sure the building inspectors will approve my design once they finally manage to escape.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
