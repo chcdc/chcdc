@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Log Cabin</br><img src=https://imgs.xkcd.com/comics/log_cabin.png></br><font size =2>alt: I'm sure the building inspectors will approve my design once they finally manage to escape.</br></font></p></table></p> 
+<p align="center">Banana Prices</br><img src=https://imgs.xkcd.com/comics/banana_prices.png></br><font size =2>alt: It's a linear extrapolation, Michael. How big could the error be? 10%?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
