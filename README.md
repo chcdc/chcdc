@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Banana Prices</br><img src=https://imgs.xkcd.com/comics/banana_prices.png></br><font size =2>alt: It's a linear extrapolation, Michael. How big could the error be? 10%?</br></font></p></table></p> 
+<p align="center">Sphere Tastiness</br><img src=https://imgs.xkcd.com/comics/sphere_tastiness.png></br><font size =2>alt: Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
