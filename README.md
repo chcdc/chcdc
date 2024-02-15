@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sphere Tastiness</br><img src=https://imgs.xkcd.com/comics/sphere_tastiness.png></br><font size =2>alt: Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.</br></font></p></table></p> 
+<p align="center">Research Account</br><img src=https://imgs.xkcd.com/comics/research_account.png></br><font size =2>alt: Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO</br></font></p></table></p> 
 
 
 <!-- xkcd -->
