@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Research Account</br><img src=https://imgs.xkcd.com/comics/research_account.png></br><font size =2>alt: Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO</br></font></p></table></p> 
+<p align="center">Treasure Chests</br><img src=https://imgs.xkcd.com/comics/treasure_chests.png></br><font size =2>alt: [earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
