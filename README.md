@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Treasure Chests</br><img src=https://imgs.xkcd.com/comics/treasure_chests.png></br><font size =2>alt: [earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."</br></font></p></table></p> 
+<p align="center">Crossword Constructors</br><img src=https://imgs.xkcd.com/comics/crossword_constructors.png></br><font size =2>alt: Also, we would really appreciate it if you could prominently refer to it as an 'eHit'.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
