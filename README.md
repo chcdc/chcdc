@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Crossword Constructors</br><img src=https://imgs.xkcd.com/comics/crossword_constructors.png></br><font size =2>alt: Also, we would really appreciate it if you could prominently refer to it as an 'eHit'.</br></font></p></table></p> 
+<p align="center">Light Leap Years</br><img src=https://imgs.xkcd.com/comics/light_leap_years.png></br><font size =2>alt: When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
