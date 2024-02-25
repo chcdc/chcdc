@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Light Leap Years</br><img src=https://imgs.xkcd.com/comics/light_leap_years.png></br><font size =2>alt: When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.</br></font></p></table></p> 
+<p align="center">Orbital Argument</br><img src=https://imgs.xkcd.com/comics/orbital_argument.png></br><font size =2>alt: "Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"</br></font></p></table></p> 
 
 
 <!-- xkcd -->
