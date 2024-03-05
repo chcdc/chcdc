@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Geographic Qualifiers</br><img src=https://imgs.xkcd.com/comics/geographic_qualifiers.png></br><font size =2>alt: 'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]</br></font></p></table></p> 
+<p align="center">Ice Core</br><img src=https://imgs.xkcd.com/comics/ice_core.png></br><font size =2>alt: If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
