@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Physics vs. Magic</br><img src=https://imgs.xkcd.com/comics/physics_vs_magic.png></br><font size =2>alt: 'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian.</br></font></p></table></p> 
+<p align="center">Supergroup</br><img src=https://imgs.xkcd.com/comics/supergroup.png></br><font size =2>alt: I love their cover of 1,200 Balloons, Dalmatians, and Miles.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
