@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Earth</br><img src=https://imgs.xkcd.com/comics/earth.png></br><font size =2>alt: Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing.</br></font></p></table></p> 
+<p align="center">Schwa</br><img src=https://imgs.xkcd.com/comics/schwa.png></br><font size =2>alt: Doug's cousin, the one from London, runs a Bumble love cult.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
