@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Schwa</br><img src=https://imgs.xkcd.com/comics/schwa.png></br><font size =2>alt: Doug's cousin, the one from London, runs a Bumble love cult.</br></font></p></table></p> 
+<p align="center">Moon Armor Index</br><img src=https://imgs.xkcd.com/comics/moon_armor_index.png></br><font size =2>alt: Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
