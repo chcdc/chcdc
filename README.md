@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Moon Armor Index</br><img src=https://imgs.xkcd.com/comics/moon_armor_index.png></br><font size =2>alt: Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.</br></font></p></table></p> 
+<p align="center">Moon Landing Mission Profiles</br><img src=https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png></br><font size =2>alt: If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
