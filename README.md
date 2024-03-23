@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Moon Landing Mission Profiles</br><img src=https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png></br><font size =2>alt: If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.</br></font></p></table></p> 
+<p align="center">The Wreck of the Edmund Fitzgerald</br><img src=https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png></br><font size =2>alt: You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
