@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">The Wreck of the Edmund Fitzgerald</br><img src=https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png></br><font size =2>alt: You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</br></font></p></table></p> 
+<p align="center">Greenland Size</br><img src=https://imgs.xkcd.com/comics/greenland_size.png></br><font size =2>alt: The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
