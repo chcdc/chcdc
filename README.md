@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Periodic Table Regions</br><img src=https://imgs.xkcd.com/comics/periodic_table_regions.png></br><font size =2>alt: Cesium-133, let it be. Cesium-134, let it be even more.</br></font></p></table></p> 
+<p align="center">Eclipse Coolness</br><img src=https://imgs.xkcd.com/comics/eclipse_coolness.png></br><font size =2>alt: A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
