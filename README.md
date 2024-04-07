@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Eclipse Clouds</br><img src=https://imgs.xkcd.com/comics/eclipse_clouds.png></br><font size =2>alt: The rare compound solar-lunar-nephelogical eclipse</br></font></p></table></p> 
+<p align="center">Machine</br><img src=https://imgs.xkcd.com/comics/machine.png></br><font size =2>alt: The Credible Machine</br></font></p></table></p> 
 
 
 <!-- xkcd -->
