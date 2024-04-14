@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Tick Marks</br><img src=https://imgs.xkcd.com/comics/tick_marks.png></br><font size =2>alt: If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset.</br></font></p></table></p> 
+<p align="center">Sitting in a Tree</br><img src=https://imgs.xkcd.com/comics/sitting_in_a_tree.png></br><font size =2>alt: First comes blood / Then we perish / Then comes Death in his Eternity Carriage.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
