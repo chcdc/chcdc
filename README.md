@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Eclipse Path Maps</br><img src=https://imgs.xkcd.com/comics/eclipse_path_maps.png></br><font size =2>alt: Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot...</br></font></p></table></p> 
+<p align="center">Pub Trivia</br><img src=https://imgs.xkcd.com/comics/pub_trivia.png></br><font size =2>alt: Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or 'the EU') (e) Greater London</br></font></p></table></p> 
 
 
 <!-- xkcd -->
