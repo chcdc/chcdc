@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Scary Triangles</br><img src=https://imgs.xkcd.com/comics/scary_triangles.png></br><font size =2>alt: Concealed mostly beneath the surface, sharks are the icebergs of the sea.</br></font></p></table></p> 
+<p align="center">Pendulum Types</br><img src=https://imgs.xkcd.com/comics/pendulum_types.png></br><font size =2>alt: The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
