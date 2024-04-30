@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Earth Formation Site</br><img src=https://imgs.xkcd.com/comics/earth_formation_site.png></br><font size =2>alt: It's not far from the sign marking the exact latitude and longitude of the Earth's core.</br></font></p></table></p> 
+<p align="center">Doppler Effect</br><img src=https://imgs.xkcd.com/comics/doppler_effect.png></br><font size =2>alt: The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
