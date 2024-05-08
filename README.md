@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Software Testing Day</br><img src=https://imgs.xkcd.com/comics/software_testing_day.png></br><font size =2>alt: The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing.</br></font></p></table></p> 
+<p align="center">Good and Bad Ideas</br><img src=https://imgs.xkcd.com/comics/good_and_bad_ideas.png></br><font size =2>alt: While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
