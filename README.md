@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Good and Bad Ideas</br><img src=https://imgs.xkcd.com/comics/good_and_bad_ideas.png></br><font size =2>alt: While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.</br></font></p></table></p> 
+<p align="center">Google Solar Cycle</br><img src=https://imgs.xkcd.com/comics/google_solar_cycle.png></br><font size =2>alt: From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
