@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Google Solar Cycle</br><img src=https://imgs.xkcd.com/comics/google_solar_cycle.png></br><font size =2>alt: From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours.</br></font></p></table></p> 
+<p align="center">Chasing</br><img src=https://imgs.xkcd.com/comics/chasing.png></br><font size =2>alt: Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
