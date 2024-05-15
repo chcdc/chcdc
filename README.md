@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chasing</br><img src=https://imgs.xkcd.com/comics/chasing.png></br><font size =2>alt: Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.</br></font></p></table></p> 
+<p align="center">Driving PSA</br><img src=https://imgs.xkcd.com/comics/driving_psa.png></br><font size =2>alt: This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
