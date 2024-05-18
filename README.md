@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Elementary Physics Paths</br><img src=https://imgs.xkcd.com/comics/elementary_physics_paths.png></br><font size =2>alt: ==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'</br></font></p></table></p> 
+<p align="center">Bloom Filter</br><img src=https://imgs.xkcd.com/comics/bloom_filter.png></br><font size =2>alt: Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
