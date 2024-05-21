@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bloom Filter</br><img src=https://imgs.xkcd.com/comics/bloom_filter.png></br><font size =2>alt: Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure.</br></font></p></table></p> 
+<p align="center">Ocean Loop</br><img src=https://imgs.xkcd.com/comics/ocean_loop.png></br><font size =2>alt: I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
