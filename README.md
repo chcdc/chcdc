@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Ocean Loop</br><img src=https://imgs.xkcd.com/comics/ocean_loop.png></br><font size =2>alt: I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.</br></font></p></table></p> 
+<p align="center">Exponential Growth</br><img src=https://imgs.xkcd.com/comics/exponential_growth.png></br><font size =2>alt: Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
