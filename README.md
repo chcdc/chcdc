@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Exponential Growth</br><img src=https://imgs.xkcd.com/comics/exponential_growth.png></br><font size =2>alt: Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end.</br></font></p></table></p> 
+<p align="center">Room Code</br><img src=https://imgs.xkcd.com/comics/room_code.png></br><font size =2>alt: Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
