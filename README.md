@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Room Code</br><img src=https://imgs.xkcd.com/comics/room_code.png></br><font size =2>alt: Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018.</br></font></p></table></p> 
+<p align="center">Local Group</br><img src=https://imgs.xkcd.com/comics/local_group.png></br><font size =2>alt: Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
