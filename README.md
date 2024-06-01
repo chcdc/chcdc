@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Complexity Analysis</br><img src=https://imgs.xkcd.com/comics/complexity_analysis.png></br><font size =2>alt: PERPETUALLY OPTIMISTIC CASE: Early in the execution, our research group makes a breakthrough on proving P=NP.</br></font></p></table></p> 
+<p align="center">Modes of Transportation</br><img src=https://imgs.xkcd.com/comics/modes_of_transportation.png></br><font size =2>alt: My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
