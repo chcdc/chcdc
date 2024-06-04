@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Modes of Transportation</br><img src=https://imgs.xkcd.com/comics/modes_of_transportation.png></br><font size =2>alt: My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.</br></font></p></table></p> 
+<p align="center">Cell Organelles</br><img src=https://imgs.xkcd.com/comics/cell_organelles.png></br><font size =2>alt: It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
