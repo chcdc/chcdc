@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Unsolved Chemistry Problems</br><img src=https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png></br><font size =2>alt: I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'.</br></font></p></table></p> 
+<p align="center">Magnet Fishing</br><img src=https://imgs.xkcd.com/comics/magnet_fishing.png></br><font size =2>alt: The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
