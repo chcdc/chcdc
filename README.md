@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Magnet Fishing</br><img src=https://imgs.xkcd.com/comics/magnet_fishing.png></br><font size =2>alt: The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.</br></font></p></table></p> 
+<p align="center">Broken Model</br><img src=https://imgs.xkcd.com/comics/broken_model.png></br><font size =2>alt: In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
