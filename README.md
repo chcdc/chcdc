@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Broken Model</br><img src=https://imgs.xkcd.com/comics/broken_model.png></br><font size =2>alt: In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.</br></font></p></table></p> 
+<p align="center">1.2 Kilofives</br><img src=https://imgs.xkcd.com/comics/1_2_kilofives.png></br><font size =2>alt: 'Oh yeah? Give me 50 milliscore reasons why I should stop.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
