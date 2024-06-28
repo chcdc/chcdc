@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Situation</br><img src=https://imgs.xkcd.com/comics/situation.png></br><font size =2>alt: We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone.</br></font></p></table></p> 
+<p align="center">Bad Map Projection: Exterior Kansas</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png></br><font size =2>alt: Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
