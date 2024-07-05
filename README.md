@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Alien Theories</br><img src=https://imgs.xkcd.com/comics/alien_theories.png></br><font size =2>alt: They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.</br></font></p></table></p> 
+<p align="center">Bracket Symbols</br><img src=https://imgs.xkcd.com/comics/bracket_symbols.png></br><font size =2>alt: ’"‘”’" means "I edited this text on both my phone and my laptop before sending it"</br></font></p></table></p> 
 
 
 <!-- xkcd -->
