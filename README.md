@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bracket Symbols</br><img src=https://imgs.xkcd.com/comics/bracket_symbols.png></br><font size =2>alt: ’"‘”’" means "I edited this text on both my phone and my laptop before sending it"</br></font></p></table></p> 
+<p align="center">Pole Vault</br><img src=https://imgs.xkcd.com/comics/pole_vault.png></br><font size =2>alt: Ugh, and we JUST went through this yesterday with javelin.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
