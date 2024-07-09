@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Pole Vault</br><img src=https://imgs.xkcd.com/comics/pole_vault.png></br><font size =2>alt: Ugh, and we JUST went through this yesterday with javelin.</br></font></p></table></p> 
+<p align="center">Number Line Branch</br><img src=https://imgs.xkcd.com/comics/number_line_branch.png></br><font size =2>alt: Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
