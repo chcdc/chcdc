@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Number Line Branch</br><img src=https://imgs.xkcd.com/comics/number_line_branch.png></br><font size =2>alt: Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.</br></font></p></table></p> 
+<p align="center">A Crossword Puzzle</br><img src=https://imgs.xkcd.com/comics/a_crossword_puzzle.png></br><font size =2>alt: Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].</br></font></p></table></p> 
 
 
 <!-- xkcd -->
