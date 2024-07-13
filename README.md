@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">A Crossword Puzzle</br><img src=https://imgs.xkcd.com/comics/a_crossword_puzzle.png></br><font size =2>alt: Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].</br></font></p></table></p> 
+<p align="center">Hatchery</br><img src=https://imgs.xkcd.com/comics/hatchery.png></br><font size =2>alt: Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
