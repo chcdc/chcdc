@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Hatchery</br><img src=https://imgs.xkcd.com/comics/hatchery.png></br><font size =2>alt: Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.</br></font></p></table></p> 
+<p align="center">Beam of Light</br><img src=https://imgs.xkcd.com/comics/beam_of_light.png></br><font size =2>alt: Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
