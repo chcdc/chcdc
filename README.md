@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Organ Meanings</br><img src=https://imgs.xkcd.com/comics/organ_meanings.png></br><font size =2>alt: IMO the thymus is one of the coolest organs and we should really use it in metaphors more.</br></font></p></table></p> 
+<p align="center">CrowdStrike</br><img src=https://imgs.xkcd.com/comics/crowdstrike.png></br><font size =2>alt: We were going to try swordfighting, but all my compiling is on hold.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
