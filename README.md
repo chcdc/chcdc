@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">President Venn Diagram</br><img src=https://imgs.xkcd.com/comics/president_venn_diagram.png></br><font size =2>alt: Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'</br></font></p></table></p> 
+<p align="center">House Inputs and Outputs</br><img src=https://imgs.xkcd.com/comics/house_inputs_and_outputs.png></br><font size =2>alt: People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
