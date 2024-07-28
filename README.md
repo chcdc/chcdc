@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">House Inputs and Outputs</br><img src=https://imgs.xkcd.com/comics/house_inputs_and_outputs.png></br><font size =2>alt: People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</br></font></p></table></p> 
+<p align="center">Olympic Sports</br><img src=https://imgs.xkcd.com/comics/olympic_sports.png></br><font size =2>alt: Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
