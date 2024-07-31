@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Olympic Sports</br><img src=https://imgs.xkcd.com/comics/olympic_sports.png></br><font size =2>alt: Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</br></font></p></table></p> 
+<p align="center">Chili Tornado Quake</br><img src=https://imgs.xkcd.com/comics/chili_tornado_quake.png></br><font size =2>alt: Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
