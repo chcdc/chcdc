@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chili Tornado Quake</br><img src=https://imgs.xkcd.com/comics/chili_tornado_quake.png></br><font size =2>alt: Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating.</br></font></p></table></p> 
+<p align="center">Exam Numbers</br><img src=https://imgs.xkcd.com/comics/exam_numbers.png></br><font size =2>alt: Calligraphy exam: Write down the number 37, spelled out, nicely.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
