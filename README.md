@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Exam Numbers</br><img src=https://imgs.xkcd.com/comics/exam_numbers.png></br><font size =2>alt: Calligraphy exam: Write down the number 37, spelled out, nicely.</br></font></p></table></p> 
+<p align="center">Matter</br><img src=https://imgs.xkcd.com/comics/matter.png></br><font size =2>alt: He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
