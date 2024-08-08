@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">University Age</br><img src=https://imgs.xkcd.com/comics/university_age.png></br><font size =2>alt: This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead.</br></font></p></table></p> 
+<p align="center">Vice President First Names</br><img src=https://imgs.xkcd.com/comics/vice_president_first_names.png></br><font size =2>alt: [Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
