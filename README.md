@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Meteor Shower PSA</br><img src=https://imgs.xkcd.com/comics/meteor_shower_psa.png></br><font size =2>alt: If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.</br></font></p></table></p> 
+<p align="center">Celestial Event</br><img src=https://imgs.xkcd.com/comics/celestial_event.png></br><font size =2>alt: If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
