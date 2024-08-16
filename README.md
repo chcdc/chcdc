@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Celestial Event</br><img src=https://imgs.xkcd.com/comics/celestial_event.png></br><font size =2>alt: If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.</br></font></p></table></p> 
+<p align="center">Helium Synthesis</br><img src=https://imgs.xkcd.com/comics/helium_synthesis.png></br><font size =2>alt: Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
