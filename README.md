@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Helium Synthesis</br><img src=https://imgs.xkcd.com/comics/helium_synthesis.png></br><font size =2>alt: Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.</br></font></p></table></p> 
+<p align="center">Ferris Wheels</br><img src=https://imgs.xkcd.com/comics/ferris_wheels.png></br><font size =2>alt: They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
