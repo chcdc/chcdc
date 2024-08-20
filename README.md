@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Ferris Wheels</br><img src=https://imgs.xkcd.com/comics/ferris_wheels.png></br><font size =2>alt: They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride.</br></font></p></table></p> 
+<p align="center">Storage Tanks</br><img src=https://imgs.xkcd.com/comics/storage_tanks.png></br><font size =2>alt: We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
