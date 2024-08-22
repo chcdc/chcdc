@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Storage Tanks</br><img src=https://imgs.xkcd.com/comics/storage_tanks.png></br><font size =2>alt: We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.</br></font></p></table></p> 
+<p align="center">Classical Periodic Table</br><img src=https://imgs.xkcd.com/comics/classical_periodic_table.png></br><font size =2>alt: Personally I think mercury is more of a 'wet earth' hybrid element.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
