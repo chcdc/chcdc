@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Classical Periodic Table</br><img src=https://imgs.xkcd.com/comics/classical_periodic_table.png></br><font size =2>alt: Personally I think mercury is more of a 'wet earth' hybrid element.</br></font></p></table></p> 
+<p align="center">Time Traveler Causes of Death</br><img src=https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png></br><font size =2>alt: Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
