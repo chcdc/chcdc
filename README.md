@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Time Traveler Causes of Death</br><img src=https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png></br><font size =2>alt: Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.</br></font></p></table></p> 
+<p align="center">Three Kinds of Research</br><img src=https://imgs.xkcd.com/comics/three_kinds_of_research.png></br><font size =2>alt: The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
