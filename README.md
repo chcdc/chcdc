@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Three Kinds of Research</br><img src=https://imgs.xkcd.com/comics/three_kinds_of_research.png></br><font size =2>alt: The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'</br></font></p></table></p> 
+<p align="center">Stranded</br><img src=https://imgs.xkcd.com/comics/stranded.png></br><font size =2>alt: At least they're not alone down there.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
