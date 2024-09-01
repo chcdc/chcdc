@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Stranded</br><img src=https://imgs.xkcd.com/comics/stranded.png></br><font size =2>alt: At least they're not alone down there.</br></font></p></table></p> 
+<p align="center">Sky Alarm</br><img src=https://imgs.xkcd.com/comics/sky_alarm.png></br><font size =2>alt: During the day it also activates for neat clouds and pretty sunsets.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
