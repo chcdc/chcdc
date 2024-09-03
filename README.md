@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sky Alarm</br><img src=https://imgs.xkcd.com/comics/sky_alarm.png></br><font size =2>alt: During the day it also activates for neat clouds and pretty sunsets.</br></font></p></table></p> 
+<p align="center">Lava Lakes</br><img src=https://imgs.xkcd.com/comics/lava_lakes.png></br><font size =2>alt: Hey, golf balls float on lava, so this should make recovering them from the hazards easier.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
