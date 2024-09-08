@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Slingshots</br><img src=https://imgs.xkcd.com/comics/slingshots.png></br><font size =2>alt: In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden.</br></font></p></table></p> 
+<p align="center">Water Filtration</br><img src=https://imgs.xkcd.com/comics/water_filtration.png></br><font size =2>alt: You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
