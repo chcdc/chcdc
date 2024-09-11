@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Water Filtration</br><img src=https://imgs.xkcd.com/comics/water_filtration.png></br><font size =2>alt: You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.</br></font></p></table></p> 
+<p align="center">Monocaster</br><img src=https://imgs.xkcd.com/comics/monocaster.png></br><font size =2>alt: My competitors say the tiny single tiny caster is unsafe, unstable, and offers no advantages over traditional designs, to which I say: wow, why are you guys so mean? I thought we were friends!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
