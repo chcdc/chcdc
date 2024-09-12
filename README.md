@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Monocaster</br><img src=https://imgs.xkcd.com/comics/monocaster.png></br><font size =2>alt: My competitors say the tiny single tiny caster is unsafe, unstable, and offers no advantages over traditional designs, to which I say: wow, why are you guys so mean? I thought we were friends!</br></font></p></table></p> 
+<p align="center">Asteroid News</br><img src=https://imgs.xkcd.com/comics/asteroid_news.png></br><font size =2>alt: Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
