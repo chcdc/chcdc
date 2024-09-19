@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Every Scientific Field</br><img src=https://imgs.xkcd.com/comics/every_scientific_field.png></br><font size =2>alt: Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps.</br></font></p></table></p> 
+<p align="center">Tectonic Surfing</br><img src=https://imgs.xkcd.com/comics/tectonic_surfing.png></br><font size =2>alt: The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
