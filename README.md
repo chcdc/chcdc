@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Maslow's Pyramid</br><img src=https://imgs.xkcd.com/comics/maslows_pyramid.png></br><font size =2>alt: The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.</br></font></p></table></p> 
+<p align="center">Physics Lab Thermostat</br><img src=https://imgs.xkcd.com/comics/physics_lab_thermostat.png></br><font size =2>alt: Hopefully the HVAC people set it to only affect the AIR in the room.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
