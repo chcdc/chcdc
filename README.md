@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Beamsplitters</br><img src=https://imgs.xkcd.com/comics/beamsplitters.png></br><font size =2>alt: Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.</br></font></p></table></p> 
+<p align="center">UK Coal</br><img src=https://imgs.xkcd.com/comics/uk_coal.png></br><font size =2>alt: The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
