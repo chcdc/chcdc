@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Ingredients</br><img src=https://imgs.xkcd.com/comics/ingredients.png></br><font size =2>alt: Add main-belt asteroids to taste.</br></font></p></table></p> 
+<p align="center">Númenor Margaritaville</br><img src=https://imgs.xkcd.com/comics/numenor_margaritaville.png></br><font size =2>alt: I see white shores, and beyond it, a far green country under a tequila sunrise.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
