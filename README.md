@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Númenor Margaritaville</br><img src=https://imgs.xkcd.com/comics/numenor_margaritaville.png></br><font size =2>alt: I see white shores, and beyond it, a far green country under a tequila sunrise.</br></font></p></table></p> 
+<p align="center">University Commas</br><img src=https://imgs.xkcd.com/comics/university_commas.png></br><font size =2>alt: The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
