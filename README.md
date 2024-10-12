@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">CIDABM</br><img src=https://imgs.xkcd.com/comics/cidabm.png></br><font size =2>alt: There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.</br></font></p></table></p> 
+<p align="center">Solar Protons</br><img src=https://imgs.xkcd.com/comics/solar_protons.png></br><font size =2>alt: If any of you want to meet some cool local oxygen atoms, I can introduce you!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
