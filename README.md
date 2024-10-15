@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Solar Protons</br><img src=https://imgs.xkcd.com/comics/solar_protons.png></br><font size =2>alt: If any of you want to meet some cool local oxygen atoms, I can introduce you!</br></font></p></table></p> 
+<p align="center">Ravioli-Shaped Objects</br><img src=https://imgs.xkcd.com/comics/ravioli_shaped_objects.png></br><font size =2>alt: It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
