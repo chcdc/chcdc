@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Ravioli-Shaped Objects</br><img src=https://imgs.xkcd.com/comics/ravioli_shaped_objects.png></br><font size =2>alt: It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.</br></font></p></table></p> 
+<p align="center">Bad Map Projection: The United Stralia</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png></br><font size =2>alt: This projection distorts both area and direction, but preserves Melbourne.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
