@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bad Map Projection: The United Stralia</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png></br><font size =2>alt: This projection distorts both area and direction, but preserves Melbourne.</br></font></p></table></p> 
+<p align="center">Experimental Astrophysics</br><img src=https://imgs.xkcd.com/comics/experimental_astrophysics.png></br><font size =2>alt: Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
