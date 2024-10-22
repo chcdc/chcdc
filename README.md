@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Experimental Astrophysics</br><img src=https://imgs.xkcd.com/comics/experimental_astrophysics.png></br><font size =2>alt: Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.</br></font></p></table></p> 
+<p align="center">Temperature Scales</br><img src=https://imgs.xkcd.com/comics/temperature_scales.png></br><font size =2>alt: In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
