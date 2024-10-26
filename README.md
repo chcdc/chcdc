@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">RNAWorld</br><img src=https://imgs.xkcd.com/comics/rnaworld.png></br><font size =2>alt: Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism.</br></font></p></table></p> 
+<p align="center">Sandwich Helix</br><img src=https://imgs.xkcd.com/comics/sandwich_helix.png></br><font size =2>alt: The number one rule of string manipulation is that youâ€™ve got to specify your encodings.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
