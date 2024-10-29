@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sandwich Helix</br><img src=https://imgs.xkcd.com/comics/sandwich_helix.png></br><font size =2>alt: The number one rule of string manipulation is that youâ€™ve got to specify your encodings.</br></font></p></table></p> 
+<p align="center">Wells</br><img src=https://imgs.xkcd.com/comics/wells.png></br><font size =2>alt: You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
