@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Wells</br><img src=https://imgs.xkcd.com/comics/wells.png></br><font size =2>alt: You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</br></font></p></table></p> 
+<p align="center">Disposal</br><img src=https://imgs.xkcd.com/comics/disposal.png></br><font size =2>alt: We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
