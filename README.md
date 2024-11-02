@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Disposal</br><img src=https://imgs.xkcd.com/comics/disposal.png></br><font size =2>alt: We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.</br></font></p></table></p> 
+<p align="center">Demons</br><img src=https://imgs.xkcd.com/comics/demons.png></br><font size =2>alt: Though they do appreciate how much he improved the heating system for the flame pit.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
