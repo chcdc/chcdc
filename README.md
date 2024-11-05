@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Demons</br><img src=https://imgs.xkcd.com/comics/demons.png></br><font size =2>alt: Though they do appreciate how much he improved the heating system for the flame pit.</br></font></p></table></p> 
+<p align="center">Probabilistic Uncertainty</br><img src=https://imgs.xkcd.com/comics/probabilistic_uncertainty.png></br><font size =2>alt: "One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
