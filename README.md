@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Proterozoic Rocks</br><img src=https://imgs.xkcd.com/comics/proterozoic_rocks.png></br><font size =2>alt: These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.</br></font></p></table></p> 
+<p align="center">Number Shortage</br><img src=https://imgs.xkcd.com/comics/number_shortage.png></br><font size =2>alt: "10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"</br></font></p></table></p> 
 
 
 <!-- xkcd -->
