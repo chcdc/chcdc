@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Number Shortage</br><img src=https://imgs.xkcd.com/comics/number_shortage.png></br><font size =2>alt: "10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"</br></font></p></table></p> 
+<p align="center">Geometriphylogenetics</br><img src=https://imgs.xkcd.com/comics/geometriphylogenetics.png></br><font size =2>alt: There's a maximum likelihood that I'm doing phylogenetics wrong.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
