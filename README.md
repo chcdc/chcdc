@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Geometriphylogenetics</br><img src=https://imgs.xkcd.com/comics/geometriphylogenetics.png></br><font size =2>alt: There's a maximum likelihood that I'm doing phylogenetics wrong.</br></font></p></table></p> 
+<p align="center">Europa Clipper</br><img src=https://imgs.xkcd.com/comics/europa_clipper.png></br><font size =2>alt: They had BETTER make this a sample return mission.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
