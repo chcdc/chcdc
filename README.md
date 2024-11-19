@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">The Future of Orion</br><img src=https://imgs.xkcd.com/comics/the_future_of_orion.png></br><font size =2>alt: Dinosaur Cosmics</br></font></p></table></p> 
+<p align="center">Kedging Cannon</br><img src=https://imgs.xkcd.com/comics/kedging_cannon.png></br><font size =2>alt: The real key was inventing the windmill-powered winch.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
