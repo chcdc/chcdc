@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">D&D Combinatorics</br><img src=https://imgs.xkcd.com/comics/dnd_combinatorics.png></br><font size =2>alt: Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.</br></font></p></table></p> 
+<p align="center">Cold Air</br><img src=https://imgs.xkcd.com/comics/cold_air.png></br><font size =2>alt: We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
