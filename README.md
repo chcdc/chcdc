@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Cold Air</br><img src=https://imgs.xkcd.com/comics/cold_air.png></br><font size =2>alt: We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.</br></font></p></table></p> 
+<p align="center">Neutrino Modem</br><img src=https://imgs.xkcd.com/comics/neutrino_modem.png></br><font size =2>alt: Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
