@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Neutrino Modem</br><img src=https://imgs.xkcd.com/comics/neutrino_modem.png></br><font size =2>alt: Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.</br></font></p></table></p> 
+<p align="center">Second Stage</br><img src=https://imgs.xkcd.com/comics/second_stage.png></br><font size =2>alt: Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
