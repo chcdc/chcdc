@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Second Stage</br><img src=https://imgs.xkcd.com/comics/second_stage.png></br><font size =2>alt: Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.</br></font></p></table></p> 
+<p align="center">Advent Calendar Advent Calendar</br><img src=https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png></br><font size =2>alt: The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
