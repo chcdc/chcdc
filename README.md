@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Advent Calendar Advent Calendar</br><img src=https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png></br><font size =2>alt: The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song.</br></font></p></table></p> 
+<p align="center">Infinite Armada Chess</br><img src=https://imgs.xkcd.com/comics/infinite_armada_chess.png></br><font size =2>alt: Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</br></font></p></table></p> 
 
 
 <!-- xkcd -->
