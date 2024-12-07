@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Infinite Armada Chess</br><img src=https://imgs.xkcd.com/comics/infinite_armada_chess.png></br><font size =2>alt: Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</br></font></p></table></p> 
+<p align="center">Seismologists</br><img src=https://imgs.xkcd.com/comics/seismologists.png></br><font size =2>alt: And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
