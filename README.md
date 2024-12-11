@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Seismologists</br><img src=https://imgs.xkcd.com/comics/seismologists.png></br><font size =2>alt: And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'.</br></font></p></table></p> 
+<p align="center">Making Tea</br><img src=https://imgs.xkcd.com/comics/making_tea.png></br><font size =2>alt: No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
