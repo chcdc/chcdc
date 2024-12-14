@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">The Maritime Approximation</br><img src=https://imgs.xkcd.com/comics/the_maritime_approximation.png></br><font size =2>alt: It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.</br></font></p></table></p> 
+<p align="center">METAR</br><img src=https://imgs.xkcd.com/comics/metar.png></br><font size =2>alt: In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
