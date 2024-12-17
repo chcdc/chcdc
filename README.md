@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">METAR</br><img src=https://imgs.xkcd.com/comics/metar.png></br><font size =2>alt: In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.</br></font></p></table></p> 
+<p align="center">Phase Change</br><img src=https://imgs.xkcd.com/comics/phase_change.png></br><font size =2>alt: Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
