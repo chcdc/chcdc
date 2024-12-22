@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Linear Sort</br><img src=https://imgs.xkcd.com/comics/linear_sort.png></br><font size =2>alt: The best case is O(n), and the worst case is that someone checks why.</br></font></p></table></p> 
+<p align="center">Exclusion Principle</br><img src=https://imgs.xkcd.com/comics/exclusion_principle.png></br><font size =2>alt: Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
