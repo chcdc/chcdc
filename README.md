@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Lasering Incidents</br><img src=https://imgs.xkcd.com/comics/lasering_incidents.png></br><font size =2>alt: I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.</br></font></p></table></p> 
+<p align="center">Time Capsule Instructions</br><img src=https://imgs.xkcd.com/comics/time_capsule_instructions.png></br><font size =2>alt: Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
