@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Time Capsule Instructions</br><img src=https://imgs.xkcd.com/comics/time_capsule_instructions.png></br><font size =2>alt: Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES.</br></font></p></table></p> 
+<p align="center">Skew-T Log-P</br><img src=https://imgs.xkcd.com/comics/skew_t_log_p.png></br><font size =2>alt: The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
