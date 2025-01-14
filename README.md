@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chess Zoo</br><img src=https://imgs.xkcd.com/comics/chess_zoo.png></br><font size =2>alt: The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity.</br></font></p></table></p> 
+<p align="center">Radon</br><img src=https://imgs.xkcd.com/comics/radon.png></br><font size =2>alt: A good ²³⁸Umbrella policy should cover it.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
