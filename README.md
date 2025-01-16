@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Radon</br><img src=https://imgs.xkcd.com/comics/radon.png></br><font size =2>alt: A good ²³⁸Umbrella policy should cover it.</br></font></p></table></p> 
+<p align="center">Uncanceled Units</br><img src=https://imgs.xkcd.com/comics/uncanceled_units.png></br><font size =2>alt: Speed limit c arcminutes^2 per steradian</br></font></p></table></p> 
 
 
 <!-- xkcd -->
