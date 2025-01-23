@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chemical Formulas</br><img src=https://imgs.xkcd.com/comics/chemical_formulas.png></br><font size =2>alt: Can you pass the nackle?</br></font></p></table></p> 
+<p align="center">Unit Circle</br><img src=https://imgs.xkcd.com/comics/unit_circle.png></br><font size =2>alt: They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
