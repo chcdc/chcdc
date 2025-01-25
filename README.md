@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Unit Circle</br><img src=https://imgs.xkcd.com/comics/unit_circle.png></br><font size =2>alt: They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties.</br></font></p></table></p> 
+<p align="center">T. Rex Evolution</br><img src=https://imgs.xkcd.com/comics/t_rex_evolution.png></br><font size =2>alt: Unfortunately, body size and bite force continue to increase.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
