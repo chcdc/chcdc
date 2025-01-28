@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">T. Rex Evolution</br><img src=https://imgs.xkcd.com/comics/t_rex_evolution.png></br><font size =2>alt: Unfortunately, body size and bite force continue to increase.</br></font></p></table></p> 
+<p align="center">Muons</br><img src=https://imgs.xkcd.com/comics/muons.png></br><font size =2>alt: Update: I've been banned from the physics department for the way I pronounce "Doppler effect."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
