@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Humidifier Review</br><img src=https://imgs.xkcd.com/comics/humidifier_review.png></br><font size =2>alt: They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.</br></font></p></table></p> 
+<p align="center">AlphaMove</br><img src=https://imgs.xkcd.com/comics/alphamove.png></br><font size =2>alt: It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
