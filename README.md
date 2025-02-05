@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">AlphaMove</br><img src=https://imgs.xkcd.com/comics/alphamove.png></br><font size =2>alt: It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.</br></font></p></table></p> 
+<p align="center">Stromatolites</br><img src=https://imgs.xkcd.com/comics/stromatolites.png></br><font size =2>alt: If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
