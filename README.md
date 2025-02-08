@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Rotary Tool</br><img src=https://imgs.xkcd.com/comics/rotary_tool.png></br><font size =2>alt: It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.</br></font></p></table></p> 
+<p align="center">Suspension Bridge</br><img src=https://imgs.xkcd.com/comics/suspension_bridge.png></br><font size =2>alt: As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
