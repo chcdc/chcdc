@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Incoming Asteroid</br><img src=https://imgs.xkcd.com/comics/incoming_asteroid.png></br><font size =2>alt: The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.</br></font></p></table></p> 
+<p align="center">Atom</br><img src=https://imgs.xkcd.com/comics/atom.png></br><font size =2>alt: What's weirder is that muons turned out to be INCREDIBLY cute.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
