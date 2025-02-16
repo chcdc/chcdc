@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Atom</br><img src=https://imgs.xkcd.com/comics/atom.png></br><font size =2>alt: What's weirder is that muons turned out to be INCREDIBLY cute.</br></font></p></table></p> 
+<p align="center">Hardwood</br><img src=https://imgs.xkcd.com/comics/hardwood.png></br><font size =2>alt: They may technically have been softwoods at some point, but they definitely aren't now.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
