@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Hardwood</br><img src=https://imgs.xkcd.com/comics/hardwood.png></br><font size =2>alt: They may technically have been softwoods at some point, but they definitely aren't now.</br></font></p></table></p> 
+<p align="center">Archive Request</br><img src=https://imgs.xkcd.com/comics/archive_request.png></br><font size =2>alt: They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)</br></font></p></table></p> 
 
 
 <!-- xkcd -->
