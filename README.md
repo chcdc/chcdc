@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Archive Request</br><img src=https://imgs.xkcd.com/comics/archive_request.png></br><font size =2>alt: They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)</br></font></p></table></p> 
+<p align="center">KM3NeT</br><img src=https://imgs.xkcd.com/comics/km3net.png></br><font size =2>alt: Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
