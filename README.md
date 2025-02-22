@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">KM3NeT</br><img src=https://imgs.xkcd.com/comics/km3net.png></br><font size =2>alt: Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.</br></font></p></table></p> 
+<p align="center">Scream Cipher</br><img src=https://imgs.xkcd.com/comics/scream_cipher.png></br><font size =2>alt: AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
