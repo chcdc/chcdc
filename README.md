@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Scream Cipher</br><img src=https://imgs.xkcd.com/comics/scream_cipher.png></br><font size =2>alt: AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!</br></font></p></table></p> 
+<p align="center">Giants</br><img src=https://imgs.xkcd.com/comics/giants.png></br><font size =2>alt: I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
