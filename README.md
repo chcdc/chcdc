@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Giants</br><img src=https://imgs.xkcd.com/comics/giants.png></br><font size =2>alt: I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.</br></font></p></table></p> 
+<p align="center">RNA</br><img src=https://imgs.xkcd.com/comics/rna.png></br><font size =2>alt: 2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
