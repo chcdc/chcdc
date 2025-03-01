@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">RNA</br><img src=https://imgs.xkcd.com/comics/rna.png></br><font size =2>alt: 2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.</br></font></p></table></p> 
+<p align="center">Excusing Yourself</br><img src=https://imgs.xkcd.com/comics/excusing_yourself.png></br><font size =2>alt: The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
