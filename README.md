@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Excusing Yourself</br><img src=https://imgs.xkcd.com/comics/excusing_yourself.png></br><font size =2>alt: The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</br></font></p></table></p> 
+<p align="center">Tall Structures</br><img src=https://imgs.xkcd.com/comics/tall_structures.png></br><font size =2>alt: Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
