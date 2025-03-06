@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Tall Structures</br><img src=https://imgs.xkcd.com/comics/tall_structures.png></br><font size =2>alt: Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.</br></font></p></table></p> 
+<p align="center">Water Damage</br><img src=https://imgs.xkcd.com/comics/water_damage.png></br><font size =2>alt: Your homeowner's insurance might cover it, but be sure to check the subductible.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
