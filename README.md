@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Water Damage</br><img src=https://imgs.xkcd.com/comics/water_damage.png></br><font size =2>alt: Your homeowner's insurance might cover it, but be sure to check the subductible.</br></font></p></table></p> 
+<p align="center">Omniroll</br><img src=https://imgs.xkcd.com/comics/omniroll.png></br><font size =2>alt: It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
