@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Omniroll</br><img src=https://imgs.xkcd.com/comics/omniroll.png></br><font size =2>alt: It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls.</br></font></p></table></p> 
+<p align="center">Water Balloons</br><img src=https://imgs.xkcd.com/comics/water_balloons.png></br><font size =2>alt: Update: The physics department has recruited an astronomer who studies meteor fireballs.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
