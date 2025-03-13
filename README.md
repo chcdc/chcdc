@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Water Balloons</br><img src=https://imgs.xkcd.com/comics/water_balloons.png></br><font size =2>alt: Update: The physics department has recruited an astronomer who studies meteor fireballs.</br></font></p></table></p> 
+<p align="center">Off By One</br><img src=https://imgs.xkcd.com/comics/off_by_one.png></br><font size =2>alt: It does come at the small cost of a LOT more off-by-40-or-50 errors.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
