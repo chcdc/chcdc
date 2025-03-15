@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Off By One</br><img src=https://imgs.xkcd.com/comics/off_by_one.png></br><font size =2>alt: It does come at the small cost of a LOT more off-by-40-or-50 errors.</br></font></p></table></p> 
+<p align="center">Planet Definitions</br><img src=https://imgs.xkcd.com/comics/planet_definitions.png></br><font size =2>alt: Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
