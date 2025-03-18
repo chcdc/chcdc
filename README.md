@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Planet Definitions</br><img src=https://imgs.xkcd.com/comics/planet_definitions.png></br><font size =2>alt: Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.</br></font></p></table></p> 
+<p align="center">Lungfish</br><img src=https://imgs.xkcd.com/comics/lungfish.png></br><font size =2>alt: I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
