@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Cosmic Distance Calibration</br><img src=https://imgs.xkcd.com/comics/cosmic_distance_calibration.png></br><font size =2>alt: This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.</br></font></p></table></p> 
+<p align="center">SawStart</br><img src=https://imgs.xkcd.com/comics/sawstart.png></br><font size =2>alt: Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
