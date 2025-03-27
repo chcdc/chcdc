@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">SawStart</br><img src=https://imgs.xkcd.com/comics/sawstart.png></br><font size =2>alt: Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.</br></font></p></table></p> 
+<p align="center">Rock Identification</br><img src=https://imgs.xkcd.com/comics/rock_identification.png></br><font size =2>alt: 'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
