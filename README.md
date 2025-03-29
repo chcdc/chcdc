@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Rock Identification</br><img src=https://imgs.xkcd.com/comics/rock_identification.png></br><font size =2>alt: 'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'</br></font></p></table></p> 
+<p align="center">Terror Bird</br><img src=https://imgs.xkcd.com/comics/terror_bird.png></br><font size =2>alt: There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
