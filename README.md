@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Terror Bird</br><img src=https://imgs.xkcd.com/comics/terror_bird.png></br><font size =2>alt: There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.</br></font></p></table></p> 
+<p align="center">Orogeny</br><img src=https://imgs.xkcd.com/comics/orogeny.png></br><font size =2>alt: Most properties can only boast INDOOR heated floors.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
