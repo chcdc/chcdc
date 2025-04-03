@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Orogeny</br><img src=https://imgs.xkcd.com/comics/orogeny.png></br><font size =2>alt: Most properties can only boast INDOOR heated floors.</br></font></p></table></p> 
+<p align="center">Decay Chain</br><img src=https://imgs.xkcd.com/comics/decay_chain.png></br><font size =2>alt: If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
