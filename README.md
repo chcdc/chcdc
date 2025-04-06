@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Decay Chain</br><img src=https://imgs.xkcd.com/comics/decay_chain.png></br><font size =2>alt: If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.</br></font></p></table></p> 
+<p align="center">Stargazing 4</br><img src=https://imgs.xkcd.com/comics/stargazing_4.png></br><font size =2>alt: We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
