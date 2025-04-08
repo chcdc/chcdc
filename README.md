@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Stargazing 4</br><img src=https://imgs.xkcd.com/comics/stargazing_4.png></br><font size =2>alt: We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.</br></font></p></table></p> 
+<p align="center">Tariffs</br><img src=https://imgs.xkcd.com/comics/tariffs.png></br><font size =2>alt: [later] I don't get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
