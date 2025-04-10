@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Tariffs</br><img src=https://imgs.xkcd.com/comics/tariffs.png></br><font size =2>alt: [later] I don't get why our pizza slices have such terrible reviews; the geotextile-infused sauce gives the toppings incredible slope stability!</br></font></p></table></p> 
+<p align="center">Push Notifications</br><img src=https://imgs.xkcd.com/comics/push_notifications.png></br><font size =2>alt: NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
