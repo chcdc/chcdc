@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Anachronym Challenge</br><img src=https://imgs.xkcd.com/comics/anachronym_challenge.png></br><font size =2>alt: I have to pay with paper money.</br></font></p></table></p> 
+<p align="center">The Roads Both Taken</br><img src=https://imgs.xkcd.com/comics/the_roads_both_taken.png></br><font size =2>alt: When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
