@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Anchor Bolts</br><img src=https://imgs.xkcd.com/comics/anchor_bolts.png></br><font size =2>alt: The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.</br></font></p></table></p> 
+<p align="center">Air Fact</br><img src=https://imgs.xkcd.com/comics/air_fact.png></br><font size =2>alt: 'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
