@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chess Position</br><img src=https://imgs.xkcd.com/comics/chess_position.png></br><font size =2>alt: It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.</br></font></p></table></p> 
+<p align="center">Jupiter Core</br><img src=https://imgs.xkcd.com/comics/jupiter_core.png></br><font size =2>alt: Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
