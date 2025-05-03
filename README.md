@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Jupiter Core</br><img src=https://imgs.xkcd.com/comics/jupiter_core.png></br><font size =2>alt: Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.</br></font></p></table></p> 
+<p align="center">Unstoppable Force and Immovable Object</br><img src=https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png></br><font size =2>alt: Unstoppable force-carrying particles can't interact with immovable matter by definition.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
