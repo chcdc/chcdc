@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Pascal's Law</br><img src=https://imgs.xkcd.com/comics/pascals_law.png></br><font size =2>alt: Reductio ad absurdum fails when reality is absurd.</br></font></p></table></p> 
+<p align="center">Deposition</br><img src=https://imgs.xkcd.com/comics/deposition.png></br><font size =2>alt: P.S. If you have time travel, come to my birthday party Saturday!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
