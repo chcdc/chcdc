@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Deposition</br><img src=https://imgs.xkcd.com/comics/deposition.png></br><font size =2>alt: P.S. If you have time travel, come to my birthday party Saturday!</br></font></p></table></p> 
+<p align="center">Modern</br><img src=https://imgs.xkcd.com/comics/modern.png></br><font size =2>alt: Scholars are still debating whether the current period is post-postmodern or neo-contemporary.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
