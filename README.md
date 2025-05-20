@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sail Physics</br><img src=https://imgs.xkcd.com/comics/sail_physics.png></br><font size =2>alt: Turning in other directions can be accomplished by using a magnetized centerboard and ocean currents, since a current flowing through a magnetic field induces a Laplace force.</br></font></p></table></p> 
+<p align="center">Renormalization</br><img src=https://imgs.xkcd.com/comics/renormalization.png></br><font size =2>alt: Applying renormalization to bullies successfully transformed Pete & Pete's Endless Mike into Finite Mike.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
