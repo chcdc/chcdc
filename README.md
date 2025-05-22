@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Renormalization</br><img src=https://imgs.xkcd.com/comics/renormalization.png></br><font size =2>alt: Applying renormalization to bullies successfully transformed Pete & Pete's Endless Mike into Finite Mike.</br></font></p></table></p> 
+<p align="center">Baker's Units</br><img src=https://imgs.xkcd.com/comics/bakers_units.png></br><font size =2>alt: 169 is a baker's gross.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
