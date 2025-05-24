@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Baker's Units</br><img src=https://imgs.xkcd.com/comics/bakers_units.png></br><font size =2>alt: 169 is a baker's gross.</br></font></p></table></p> 
+<p align="center">Drafting</br><img src=https://imgs.xkcd.com/comics/drafting.png></br><font size =2>alt: A 5% efficiency gain at the cost of a 99% efficiency loss</br></font></p></table></p> 
 
 
 <!-- xkcd -->
