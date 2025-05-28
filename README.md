@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Drafting</br><img src=https://imgs.xkcd.com/comics/drafting.png></br><font size =2>alt: A 5% efficiency gain at the cost of a 99% efficiency loss</br></font></p></table></p> 
+<p align="center">Mass Spec</br><img src=https://imgs.xkcd.com/comics/mass_spec.png></br><font size =2>alt: Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
