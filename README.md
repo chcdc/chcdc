@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Archaea</br><img src=https://imgs.xkcd.com/comics/archaea.png></br><font size =2>alt: Under the two-domain system, anyone who punches you is technically an Archaean pathogen.</br></font></p></table></p> 
+<p align="center">Check Engine</br><img src=https://imgs.xkcd.com/comics/check_engine.png></br><font size =2>alt: They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
