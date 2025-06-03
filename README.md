@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Check Engine</br><img src=https://imgs.xkcd.com/comics/check_engine.png></br><font size =2>alt: They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</br></font></p></table></p> 
+<p align="center">Bridge Types</br><img src=https://imgs.xkcd.com/comics/bridge_types.png></br><font size =2>alt: Pontoon bridges are just linear open-sided waterbeds.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
