@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bridge Types</br><img src=https://imgs.xkcd.com/comics/bridge_types.png></br><font size =2>alt: Pontoon bridges are just linear open-sided waterbeds.</br></font></p></table></p> 
+<p align="center">Trojan Horse</br><img src=https://imgs.xkcd.com/comics/trojan_horse.png></br><font size =2>alt: Ultimately, history would imperfectly record the story of the Foal of Troy.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
