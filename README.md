@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Trojan Horse</br><img src=https://imgs.xkcd.com/comics/trojan_horse.png></br><font size =2>alt: Ultimately, history would imperfectly record the story of the Foal of Troy.</br></font></p></table></p> 
+<p align="center">Neighbor-Source Heat Pump</br><img src=https://imgs.xkcd.com/comics/neighbor_source_heat_pump.png></br><font size =2>alt: The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
