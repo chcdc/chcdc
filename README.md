@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Good Science</br><img src=https://imgs.xkcd.com/comics/good_science.png></br><font size =2>alt: If you think curiosity without rigor is bad, you should see rigor without curiosity.</br></font></p></table></p> 
+<p align="center">Reading a Big Number</br><img src=https://imgs.xkcd.com/comics/reading_a_big_number.png></br><font size =2>alt: [desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???</br></font></p></table></p> 
 
 
 <!-- xkcd -->
