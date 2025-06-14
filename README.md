@@ -1,6 +1,6 @@
 ### hey there 
 
-- :seedling: I’m currently learning Golang and learning more about Python
+- :seedling: I’m currently learning more about Python
 - :mailbox: How to reach me: carlos@chcdc.com.br
 
 
