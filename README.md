@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Reading a Big Number</br><img src=https://imgs.xkcd.com/comics/reading_a_big_number.png></br><font size =2>alt: [desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???</br></font></p></table></p> 
+<p align="center">Exoplanet System</br><img src=https://imgs.xkcd.com/comics/exoplanet_system.png></br><font size =2>alt: Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
