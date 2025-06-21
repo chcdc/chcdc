@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Tukey</br><img src=https://imgs.xkcd.com/comics/tukey.png></br><font size =2>alt: Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.</br></font></p></table></p> 
+<p align="center">Interoperability</br><img src=https://imgs.xkcd.com/comics/interoperability.png></br><font size =2>alt: We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
