@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Interoperability</br><img src=https://imgs.xkcd.com/comics/interoperability.png></br><font size =2>alt: We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.</br></font></p></table></p> 
+<p align="center">Weather Balloons</br><img src=https://imgs.xkcd.com/comics/weather_balloons.png></br><font size =2>alt: Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
