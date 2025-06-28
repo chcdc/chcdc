@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Weather Balloons</br><img src=https://imgs.xkcd.com/comics/weather_balloons.png></br><font size =2>alt: Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'</br></font></p></table></p> 
+<p align="center">Laser Danger</br><img src=https://imgs.xkcd.com/comics/laser_danger.png></br><font size =2>alt: To combat the threat, many airlines are installing wing-mounted spray bottles.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
