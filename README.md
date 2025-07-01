@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Laser Danger</br><img src=https://imgs.xkcd.com/comics/laser_danger.png></br><font size =2>alt: To combat the threat, many airlines are installing wing-mounted spray bottles.</br></font></p></table></p> 
+<p align="center">Dehumidifier</br><img src=https://imgs.xkcd.com/comics/dehumidifier.png></br><font size =2>alt: It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
