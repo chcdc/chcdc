@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Dehumidifier</br><img src=https://imgs.xkcd.com/comics/dehumidifier.png></br><font size =2>alt: It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.</br></font></p></table></p> 
+<p align="center">Global Ranking</br><img src=https://imgs.xkcd.com/comics/global_ranking.png></br><font size =2>alt: Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
