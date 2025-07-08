@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Artificial Gravity</br><img src=https://imgs.xkcd.com/comics/artificial_gravity.png></br><font size =2>alt: Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</br></font></p></table></p> 
+<p align="center">Geology Murder</br><img src=https://imgs.xkcd.com/comics/geology_murder.png></br><font size =2>alt: After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
