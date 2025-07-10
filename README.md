@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Geology Murder</br><img src=https://imgs.xkcd.com/comics/geology_murder.png></br><font size =2>alt: After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.</br></font></p></table></p> 
+<p align="center">Fix This Sign</br><img src=https://imgs.xkcd.com/comics/fix_this_sign.png></br><font size =2>alt: We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
