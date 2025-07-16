@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Building a Fire</br><img src=https://imgs.xkcd.com/comics/building_a_fire.png></br><font size =2>alt: That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit.</br></font></p></table></p> 
+<p align="center">Unsolved Physics Problems</br><img src=https://imgs.xkcd.com/comics/unsolved_physics_problems.png></br><font size =2>alt: 'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??</br></font></p></table></p> 
 
 
 <!-- xkcd -->
