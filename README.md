@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Echo Chamber</br><img src=https://imgs.xkcd.com/comics/echo_chamber.png></br><font size =2>alt: This is almost as bad as the time I signed up for a purely partisan fishing expedition.</br></font></p></table></p> 
+<p align="center">Replication Crisis</br><img src=https://imgs.xkcd.com/comics/replication_crisis.png></br><font size =2>alt: Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
