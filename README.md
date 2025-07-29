@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Geologic Periods</br><img src=https://imgs.xkcd.com/comics/geologic_periods.png></br><font size =2>alt: Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.</br></font></p></table></p> 
+<p align="center">Kite Incident</br><img src=https://imgs.xkcd.com/comics/kite_incident.png></br><font size =2>alt: Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
