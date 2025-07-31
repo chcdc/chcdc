@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Kite Incident</br><img src=https://imgs.xkcd.com/comics/kite_incident.png></br><font size =2>alt: Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.</br></font></p></table></p> 
+<p align="center">Bad Map Projection: Interrupted Spheres</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png></br><font size =2>alt: During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
