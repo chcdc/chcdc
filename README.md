@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bad Map Projection: Interrupted Spheres</br><img src=https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png></br><font size =2>alt: During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.</br></font></p></table></p> 
+<p align="center">Canon</br><img src=https://imgs.xkcd.com/comics/canon.png></br><font size =2>alt: Achilles was a mighty warrior, but his Achilles' heel was his heel.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
