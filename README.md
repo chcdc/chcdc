@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Canon</br><img src=https://imgs.xkcd.com/comics/canon.png></br><font size =2>alt: Achilles was a mighty warrior, but his Achilles' heel was his heel.</br></font></p></table></p> 
+<p align="center">Grounded</br><img src=https://imgs.xkcd.com/comics/grounded.png></br><font size =2>alt: We should have you at the gate in just under two hours--two and a half if we get pulled over.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
