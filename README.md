@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Grounded</br><img src=https://imgs.xkcd.com/comics/grounded.png></br><font size =2>alt: We should have you at the gate in just under two hours--two and a half if we get pulled over.</br></font></p></table></p> 
+<p align="center">Snake-in-the-Box Problem</br><img src=https://imgs.xkcd.com/comics/snake_in_the_box_problem.png></br><font size =2>alt: Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
