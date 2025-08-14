@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Where Babies Come From</br><img src=https://imgs.xkcd.com/comics/where_babies_come_from.png></br><font size =2>alt: Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.</br></font></p></table></p> 
+<p align="center">Thread Meeting</br><img src=https://imgs.xkcd.com/comics/thread_meeting.png></br><font size =2>alt: Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
