@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Archaeology Research</br><img src=https://imgs.xkcd.com/comics/archaeology_research.png></br><font size =2>alt: The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.</br></font></p></table></p> 
+<p align="center">Predicament</br><img src=https://imgs.xkcd.com/comics/predicament.png></br><font size =2>alt: I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
