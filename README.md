@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Predicament</br><img src=https://imgs.xkcd.com/comics/predicament.png></br><font size =2>alt: I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?</br></font></p></table></p> 
+<p align="center">Cesium</br><img src=https://imgs.xkcd.com/comics/cesium.png></br><font size =2>alt: Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
