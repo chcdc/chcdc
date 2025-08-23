@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Cesium</br><img src=https://imgs.xkcd.com/comics/cesium.png></br><font size =2>alt: Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.</br></font></p></table></p> 
+<p align="center">Coastline Similarity</br><img src=https://imgs.xkcd.com/comics/coastline_similarity.png></br><font size =2>alt: Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
