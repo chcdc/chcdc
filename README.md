@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Coastline Similarity</br><img src=https://imgs.xkcd.com/comics/coastline_similarity.png></br><font size =2>alt: Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!</br></font></p></table></p> 
+<p align="center">Dual Roomba</br><img src=https://imgs.xkcd.com/comics/dual_roomba.png></br><font size =2>alt: I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
