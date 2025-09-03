@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sea Level</br><img src=https://imgs.xkcd.com/comics/sea_level.png></br><font size =2>alt: They're up there with coral islands, lightning, and caterpillars turning into butterflies.</br></font></p></table></p> 
+<p align="center">Pull</br><img src=https://imgs.xkcd.com/comics/pull.png></br><font size =2>alt: Be careful fighting gravity. If you win, it's a long way down.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
