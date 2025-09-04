@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Pull</br><img src=https://imgs.xkcd.com/comics/pull.png></br><font size =2>alt: Be careful fighting gravity. If you win, it's a long way down.</br></font></p></table></p> 
+<p align="center">Cursed Number</br><img src=https://imgs.xkcd.com/comics/cursed_number.png></br><font size =2>alt: Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
