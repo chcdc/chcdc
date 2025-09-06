@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Cursed Number</br><img src=https://imgs.xkcd.com/comics/cursed_number.png></br><font size =2>alt: Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</br></font></p></table></p> 
+<p align="center">Dimensional Lumber Tape Measure</br><img src=https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png></br><font size =2>alt: A person with two watches is never sure what time it is, especially if I got them one of the watches.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
