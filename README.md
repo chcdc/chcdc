@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Dimensional Lumber Tape Measure</br><img src=https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png></br><font size =2>alt: A person with two watches is never sure what time it is, especially if I got them one of the watches.</br></font></p></table></p> 
+<p align="center">Chess Variant</br><img src=https://imgs.xkcd.com/comics/chess_variant.png></br><font size =2>alt: The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
