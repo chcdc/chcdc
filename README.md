@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chess Variant</br><img src=https://imgs.xkcd.com/comics/chess_variant.png></br><font size =2>alt: The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.</br></font></p></table></p> 
+<p align="center">Biology Department</br><img src=https://imgs.xkcd.com/comics/biology_department.png></br><font size =2>alt: Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
