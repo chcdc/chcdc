@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Biology Department</br><img src=https://imgs.xkcd.com/comics/biology_department.png></br><font size =2>alt: Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.</br></font></p></table></p> 
+<p align="center">Mantle Model</br><img src=https://imgs.xkcd.com/comics/mantle_model.png></br><font size =2>alt: Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
