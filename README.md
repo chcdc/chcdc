@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Question Mark</br><img src=https://imgs.xkcd.com/comics/question_mark.png></br><font size =2>alt: Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...</br></font></p></table></p> 
+<p align="center">Phase Changes</br><img src=https://imgs.xkcd.com/comics/phase_changes.png></br><font size =2>alt: People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
