@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Phase Changes</br><img src=https://imgs.xkcd.com/comics/phase_changes.png></br><font size =2>alt: People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.</br></font></p></table></p> 
+<p align="center">Piercing</br><img src=https://imgs.xkcd.com/comics/piercing.png></br><font size =2>alt: Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
