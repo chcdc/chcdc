@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Hiking</br><img src=https://imgs.xkcd.com/comics/hiking.png></br><font size =2>alt: Every downhill walk is a waterslide that might have been.</br></font></p></table></p> 
+<p align="center">100% All Achievements</br><img src=https://imgs.xkcd.com/comics/100_all_achievements.png></br><font size =2>alt: I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
