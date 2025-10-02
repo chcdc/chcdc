@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">100% All Achievements</br><img src=https://imgs.xkcd.com/comics/100_all_achievements.png></br><font size =2>alt: I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.</br></font></p></table></p> 
+<p align="center">Measure Twice, Cut Once</br><img src=https://imgs.xkcd.com/comics/measure_twice_cut_once.png></br><font size =2>alt: "Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is</br></font></p></table></p> 
 
 
 <!-- xkcd -->
