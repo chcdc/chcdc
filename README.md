@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Measure Twice, Cut Once</br><img src=https://imgs.xkcd.com/comics/measure_twice_cut_once.png></br><font size =2>alt: "Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is</br></font></p></table></p> 
+<p align="center">Ping</br><img src=https://imgs.xkcd.com/comics/ping.png></br><font size =2>alt: Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
