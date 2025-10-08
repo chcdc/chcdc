@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Ping</br><img src=https://imgs.xkcd.com/comics/ping.png></br><font size =2>alt: Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.</br></font></p></table></p> 
+<p align="center">Window Screen</br><img src=https://imgs.xkcd.com/comics/window_screen.png></br><font size =2>alt: The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</br></font></p></table></p> 
 
 
 <!-- xkcd -->
