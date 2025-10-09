@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Window Screen</br><img src=https://imgs.xkcd.com/comics/window_screen.png></br><font size =2>alt: The Nobel Prize in Physiology or Medicine or Home Improvement or DIY</br></font></p></table></p> 
+<p align="center">Skateboard</br><img src=https://imgs.xkcd.com/comics/skateboard.png></br><font size =2>alt: I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
