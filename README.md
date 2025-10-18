@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Physics Paths</br><img src=https://imgs.xkcd.com/comics/physics_paths.png></br><font size =2>alt: If nothing else, that reasoning definitely overturns syllogisms.</br></font></p></table></p> 
+<p align="center">Planetary Rings</br><img src=https://imgs.xkcd.com/comics/planetary_rings.png></br><font size =2>alt: If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
