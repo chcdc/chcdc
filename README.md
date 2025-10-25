@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Shielding Chart</br><img src=https://imgs.xkcd.com/comics/shielding_chart.png></br><font size =2>alt: Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</br></font></p></table></p> 
+<p align="center">Continents</br><img src=https://imgs.xkcd.com/comics/continents.png></br><font size =2>alt: The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
