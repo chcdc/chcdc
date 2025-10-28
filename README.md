@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Continents</br><img src=https://imgs.xkcd.com/comics/continents.png></br><font size =2>alt: The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.</br></font></p></table></p> 
+<p align="center">Document Forgery</br><img src=https://imgs.xkcd.com/comics/document_forgery.png></br><font size =2>alt: It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</br></font></p></table></p> 
 
 
 <!-- xkcd -->
