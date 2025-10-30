@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Document Forgery</br><img src=https://imgs.xkcd.com/comics/document_forgery.png></br><font size =2>alt: It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...</br></font></p></table></p> 
+<p align="center">Airspeed</br><img src=https://imgs.xkcd.com/comics/airspeed.png></br><font size =2>alt: Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</br></font></p></table></p> 
 
 
 <!-- xkcd -->
