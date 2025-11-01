@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Airspeed</br><img src=https://imgs.xkcd.com/comics/airspeed.png></br><font size =2>alt: Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record</br></font></p></table></p> 
+<p align="center">Heart Mountain</br><img src=https://imgs.xkcd.com/comics/heart_mountain.png></br><font size =2>alt: Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
