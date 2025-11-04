@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Heart Mountain</br><img src=https://imgs.xkcd.com/comics/heart_mountain.png></br><font size =2>alt: Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."</br></font></p></table></p> 
+<p align="center">Repair Video</br><img src=https://imgs.xkcd.com/comics/repair_video.png></br><font size =2>alt: The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
