@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Repair Video</br><img src=https://imgs.xkcd.com/comics/repair_video.png></br><font size =2>alt: The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.</br></font></p></table></p> 
+<p align="center">Metric Tip</br><img src=https://imgs.xkcd.com/comics/metric_tip.png></br><font size =2>alt: The package weighs 7 kg 9 oz.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
