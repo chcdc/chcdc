@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Metric Tip</br><img src=https://imgs.xkcd.com/comics/metric_tip.png></br><font size =2>alt: The package weighs 7 kg 9 oz.</br></font></p></table></p> 
+<p align="center">Earthquake Prediction Flowchart</br><img src=https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png></br><font size =2>alt: At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
