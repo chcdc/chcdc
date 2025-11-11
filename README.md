@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Earthquake Prediction Flowchart</br><img src=https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png></br><font size =2>alt: At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'</br></font></p></table></p> 
+<p align="center">Big and Little Spoons</br><img src=https://imgs.xkcd.com/comics/big_and_little_spoons.png></br><font size =2>alt: Are you the annoying spoon or the sleepy spoon?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
