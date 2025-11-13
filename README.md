@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Big and Little Spoons</br><img src=https://imgs.xkcd.com/comics/big_and_little_spoons.png></br><font size =2>alt: Are you the annoying spoon or the sleepy spoon?</br></font></p></table></p> 
+<p align="center">Car Size</br><img src=https://imgs.xkcd.com/comics/car_size.png></br><font size =2>alt: 'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
