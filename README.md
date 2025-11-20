@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">EPIRBs</br><img src=https://imgs.xkcd.com/comics/epirbs.png></br><font size =2>alt: 'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'</br></font></p></table></p> 
+<p align="center">Service Outage</br><img src=https://imgs.xkcd.com/comics/service_outage.png></br><font size =2>alt: Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
