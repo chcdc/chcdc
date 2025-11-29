@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Satellite Imagery</br><img src=https://imgs.xkcd.com/comics/satellite_imagery.png></br><font size =2>alt: Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape.</br></font></p></table></p> 
+<p align="center">Bridge Clearance</br><img src=https://imgs.xkcd.com/comics/bridge_clearance.png></br><font size =2>alt: A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
