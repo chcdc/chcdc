@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bridge Clearance</br><img src=https://imgs.xkcd.com/comics/bridge_clearance.png></br><font size =2>alt: A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.</br></font></p></table></p> 
+<p align="center">Website Task Flowchart</br><img src=https://imgs.xkcd.com/comics/website_task_flowchart.png></br><font size =2>alt: Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
