@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Website Task Flowchart</br><img src=https://imgs.xkcd.com/comics/website_task_flowchart.png></br><font size =2>alt: Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!</br></font></p></table></p> 
+<p align="center">Inverted Catenaries</br><img src=https://imgs.xkcd.com/comics/inverted_catenaries.png></br><font size =2>alt: Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
