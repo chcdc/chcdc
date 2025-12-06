@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Inverted Catenaries</br><img src=https://imgs.xkcd.com/comics/inverted_catenaries.png></br><font size =2>alt: Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.</br></font></p></table></p> 
+<p align="center">Chessboard Alignment</br><img src=https://imgs.xkcd.com/comics/chessboard_alignment.png></br><font size =2>alt: Luckily, the range is limited by the fact that the square boundary lines follow great circles.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
