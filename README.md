@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chessboard Alignment</br><img src=https://imgs.xkcd.com/comics/chessboard_alignment.png></br><font size =2>alt: Luckily, the range is limited by the fact that the square boundary lines follow great circles.</br></font></p></table></p> 
+<p align="center">Hyperacute Interdynamics</br><img src=https://imgs.xkcd.com/comics/hyperacute_interdynamics.png></br><font size =2>alt: Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
