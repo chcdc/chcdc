@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Hyperacute Interdynamics</br><img src=https://imgs.xkcd.com/comics/hyperacute_interdynamics.png></br><font size =2>alt: Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.</br></font></p></table></p> 
+<p align="center">Fishing</br><img src=https://imgs.xkcd.com/comics/fishing.png></br><font size =2>alt: 'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
