@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Fishing</br><img src=https://imgs.xkcd.com/comics/fishing.png></br><font size =2>alt: 'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'</br></font></p></table></p> 
+<p align="center">Apples</br><img src=https://imgs.xkcd.com/comics/apples.png></br><font size =2>alt: The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
