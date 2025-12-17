@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Apples</br><img src=https://imgs.xkcd.com/comics/apples.png></br><font size =2>alt: The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.</br></font></p></table></p> 
+<p align="center">Jumping Frog Radius</br><img src=https://imgs.xkcd.com/comics/jumping_frog_radius.png></br><font size =2>alt: Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
