@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Telescope Types</br><img src=https://imgs.xkcd.com/comics/telescope_types.png></br><font size =2>alt: I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.</br></font></p></table></p> 
+<p align="center">Pole Vault Pole</br><img src=https://imgs.xkcd.com/comics/pole_vault_pole.png></br><font size =2>alt: My goal in life is to be personally responsible for at least one sports rule change.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
