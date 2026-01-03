@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Anyone Else Here</br><img src=https://imgs.xkcd.com/comics/anyone_else_here.png></br><font size =2>alt: Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.</br></font></p></table></p> 
+<p align="center">Conic Sections</br><img src=https://imgs.xkcd.com/comics/conic_sections.png></br><font size =2>alt: They're not generally used for crewed spacecraft because astronauts HATE going around the corners.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
