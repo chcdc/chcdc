@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Conic Sections</br><img src=https://imgs.xkcd.com/comics/conic_sections.png></br><font size =2>alt: They're not generally used for crewed spacecraft because astronauts HATE going around the corners.</br></font></p></table></p> 
+<p align="center">Tensegrity</br><img src=https://imgs.xkcd.com/comics/tensegrity.png></br><font size =2>alt: Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
