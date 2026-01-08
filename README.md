@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Tensegrity</br><img src=https://imgs.xkcd.com/comics/tensegrity.png></br><font size =2>alt: Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.</br></font></p></table></p> 
+<p align="center">Superstition</br><img src=https://imgs.xkcd.com/comics/superstition.png></br><font size =2>alt: It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
