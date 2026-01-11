@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Superstition</br><img src=https://imgs.xkcd.com/comics/superstition.png></br><font size =2>alt: It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!</br></font></p></table></p> 
+<p align="center">Planetary Alignment</br><img src=https://imgs.xkcd.com/comics/planetary_alignment.png></br><font size =2>alt: We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
