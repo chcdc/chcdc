@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Planetary Alignment</br><img src=https://imgs.xkcd.com/comics/planetary_alignment.png></br><font size =2>alt: We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?</br></font></p></table></p> 
+<p align="center">Sailing Rigs</br><img src=https://imgs.xkcd.com/comics/sailing_rigs.png></br><font size =2>alt: I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
