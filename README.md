@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Sailing Rigs</br><img src=https://imgs.xkcd.com/comics/sailing_rigs.png></br><font size =2>alt: I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.</br></font></p></table></p> 
+<p align="center">16-Part Epoxy</br><img src=https://imgs.xkcd.com/comics/16_part_epoxy.png></br><font size =2>alt: Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
