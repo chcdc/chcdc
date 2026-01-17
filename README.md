@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">16-Part Epoxy</br><img src=https://imgs.xkcd.com/comics/16_part_epoxy.png></br><font size =2>alt: Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.</br></font></p></table></p> 
+<p align="center">International Station</br><img src=https://imgs.xkcd.com/comics/international_station.png></br><font size =2>alt: Welcome to the International Space Station Exclamation Point!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
