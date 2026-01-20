@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">International Station</br><img src=https://imgs.xkcd.com/comics/international_station.png></br><font size =2>alt: Welcome to the International Space Station Exclamation Point!</br></font></p></table></p> 
+<p align="center">Aurora Coolness</br><img src=https://imgs.xkcd.com/comics/aurora_coolness.png></br><font size =2>alt: I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
