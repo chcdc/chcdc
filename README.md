@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Aurora Coolness</br><img src=https://imgs.xkcd.com/comics/aurora_coolness.png></br><font size =2>alt: I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all.</br></font></p></table></p> 
+<p align="center">Cost Savings</br><img src=https://imgs.xkcd.com/comics/cost_savings.png></br><font size =2>alt: Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
