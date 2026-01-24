@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Cost Savings</br><img src=https://imgs.xkcd.com/comics/cost_savings.png></br><font size =2>alt: Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget.</br></font></p></table></p> 
+<p align="center">Double-Pronged Extension Cord</br><img src=https://imgs.xkcd.com/comics/double_pronged_extension_cord.png></br><font size =2>alt: 'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
