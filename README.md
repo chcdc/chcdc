@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Double-Pronged Extension Cord</br><img src=https://imgs.xkcd.com/comics/double_pronged_extension_cord.png></br><font size =2>alt: 'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'</br></font></p></table></p> 
+<p align="center">Early Arthropods</br><img src=https://imgs.xkcd.com/comics/early_arthropods.png></br><font size =2>alt: 'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects</br></font></p></table></p> 
 
 
 <!-- xkcd -->
