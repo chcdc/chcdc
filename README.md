@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Early Arthropods</br><img src=https://imgs.xkcd.com/comics/early_arthropods.png></br><font size =2>alt: 'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects</br></font></p></table></p> 
+<p align="center">Chemical Formula</br><img src=https://imgs.xkcd.com/comics/chemical_formula.png></br><font size =2>alt: Some of the atoms in the molecule are very weakly bound.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
