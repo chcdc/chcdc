@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Chemical Formula</br><img src=https://imgs.xkcd.com/comics/chemical_formula.png></br><font size =2>alt: Some of the atoms in the molecule are very weakly bound.</br></font></p></table></p> 
+<p align="center">Proof Without Content</br><img src=https://imgs.xkcd.com/comics/proof_without_content.png></br><font size =2>alt: There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
