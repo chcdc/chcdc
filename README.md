@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Proof Without Content</br><img src=https://imgs.xkcd.com/comics/proof_without_content.png></br><font size =2>alt: There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.</br></font></p></table></p> 
+<p align="center">Groundhog Day Meaning</br><img src=https://imgs.xkcd.com/comics/groundhog_day_meaning.png></br><font size =2>alt: Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
