@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Binary Star</br><img src=https://imgs.xkcd.com/comics/binary_star.png></br><font size =2>alt: The discovery of a fully typographical star system comes with a big asterisk.</br></font></p></table></p> 
+<p align="center">Dinosaurs And Non-Dinosaurs</br><img src=https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png></br><font size =2>alt: Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
