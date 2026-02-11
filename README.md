@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Dinosaurs And Non-Dinosaurs</br><img src=https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png></br><font size =2>alt: Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.</br></font></p></table></p> 
+<p align="center">Carbon Dating</br><img src=https://imgs.xkcd.com/comics/carbon_dating.png></br><font size =2>alt: This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
