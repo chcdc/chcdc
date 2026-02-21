@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Plums</br><img src=https://imgs.xkcd.com/comics/plums.png></br><font size =2>alt: My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.</br></font></p></table></p> 
+<p align="center">Eliminating the Impossible</br><img src=https://imgs.xkcd.com/comics/eliminating_the_impossible.png></br><font size =2>alt: 'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
