@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Eliminating the Impossible</br><img src=https://imgs.xkcd.com/comics/eliminating_the_impossible.png></br><font size =2>alt: 'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.</br></font></p></table></p> 
+<p align="center">Amperage</br><img src=https://imgs.xkcd.com/comics/amperage.png></br><font size =2>alt: Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
