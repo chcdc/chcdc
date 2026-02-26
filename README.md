@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Amperage</br><img src=https://imgs.xkcd.com/comics/amperage.png></br><font size =2>alt: Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?</br></font></p></table></p> 
+<p align="center">Little Red Dots</br><img src=https://imgs.xkcd.com/comics/little_red_dots.png></br><font size =2>alt: After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
