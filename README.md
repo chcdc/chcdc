@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Dental Formulas</br><img src=https://imgs.xkcd.com/comics/dental_formulas.png></br><font size =2>alt: I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.</br></font></p></table></p> 
+<p align="center">Electric Vehicles</br><img src=https://imgs.xkcd.com/comics/electric_vehicles.png></br><font size =2>alt: Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
