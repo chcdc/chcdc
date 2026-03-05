@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Electric Vehicles</br><img src=https://imgs.xkcd.com/comics/electric_vehicles.png></br><font size =2>alt: Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.</br></font></p></table></p> 
+<p align="center">Solar Warning</br><img src=https://imgs.xkcd.com/comics/solar_warning.png></br><font size =2>alt: This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
