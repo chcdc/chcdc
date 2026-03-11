@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Bazookasaurus</br><img src=https://imgs.xkcd.com/comics/bazookasaurus.png></br><font size =2>alt: In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.</br></font></p></table></p> 
+<p align="center">Home Remedies</br><img src=https://imgs.xkcd.com/comics/home_remedies.png></br><font size =2>alt: As always, you are permitted to call one person for guidance, but that person must be a grandparent.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
