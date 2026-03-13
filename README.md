@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Home Remedies</br><img src=https://imgs.xkcd.com/comics/home_remedies.png></br><font size =2>alt: As always, you are permitted to call one person for guidance, but that person must be a grandparent.</br></font></p></table></p> 
+<p align="center">Subduction Retrieval</br><img src=https://imgs.xkcd.com/comics/subduction_retrieval.png></br><font size =2>alt: Aww, the oceanic crust and the continental crust are getting married!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
