@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Planets and Bright Stars</br><img src=https://imgs.xkcd.com/comics/planets_and_bright_stars.png></br><font size =2>alt: An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.</br></font></p></table></p> 
+<p align="center">Rotational Gravity</br><img src=https://imgs.xkcd.com/comics/rotational_gravity.png></br><font size =2>alt: I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
