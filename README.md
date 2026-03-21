@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Landscape Features</br><img src=https://imgs.xkcd.com/comics/landscape_features.png></br><font size =2>alt: 'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question</br></font></p></table></p> 
+<p align="center">Star Formation</br><img src=https://imgs.xkcd.com/comics/star_formation.png></br><font size =2>alt: It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
