@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Star Formation</br><img src=https://imgs.xkcd.com/comics/star_formation.png></br><font size =2>alt: It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!</br></font></p></table></p> 
+<p align="center">Inflation Timeline</br><img src=https://imgs.xkcd.com/comics/inflation_timeline.png></br><font size =2>alt: Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'</br></font></p></table></p> 
 
 
 <!-- xkcd -->
