@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Inflation Timeline</br><img src=https://imgs.xkcd.com/comics/inflation_timeline.png></br><font size =2>alt: Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'</br></font></p></table></p> 
+<p align="center">Centimeter Wavelengths</br><img src=https://imgs.xkcd.com/comics/centimeter_wavelengths.png></br><font size =2>alt: Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</br></font></p></table></p> 
 
 
 <!-- xkcd -->
