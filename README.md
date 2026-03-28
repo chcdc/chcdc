@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Centimeter Wavelengths</br><img src=https://imgs.xkcd.com/comics/centimeter_wavelengths.png></br><font size =2>alt: Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?</br></font></p></table></p> 
+<p align="center">Satellite Pollution</br><img src=https://imgs.xkcd.com/comics/satellite_pollution.png></br><font size =2>alt: We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
