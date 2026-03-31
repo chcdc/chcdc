@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Satellite Pollution</br><img src=https://imgs.xkcd.com/comics/satellite_pollution.png></br><font size =2>alt: We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.</br></font></p></table></p> 
+<p align="center">Home Solar</br><img src=https://imgs.xkcd.com/comics/home_solar.png></br><font size =2>alt: "While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
