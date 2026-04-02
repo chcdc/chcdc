@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Home Solar</br><img src=https://imgs.xkcd.com/comics/home_solar.png></br><font size =2>alt: "While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."</br></font></p></table></p> 
+<p align="center">Creation</br><img src=https://imgs.xkcd.com/comics/creation.png></br><font size =2>alt: This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
