@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Creation</br><img src=https://imgs.xkcd.com/comics/creation.png></br><font size =2>alt: This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.</br></font></p></table></p> 
+<p align="center">Day Counter</br><img src=https://imgs.xkcd.com/comics/day_counter.png></br><font size =2>alt: It has been −2,147,483,648 days since our last integer overflow.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
