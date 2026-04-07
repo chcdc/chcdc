@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Day Counter</br><img src=https://imgs.xkcd.com/comics/day_counter.png></br><font size =2>alt: It has been −2,147,483,648 days since our last integer overflow.</br></font></p></table></p> 
+<p align="center">Grammar</br><img src=https://imgs.xkcd.com/comics/grammar.png></br><font size =2>alt: Communication is one of the most popular ways to transmit information, ahead of rivals such as</br></font></p></table></p> 
 
 
 <!-- xkcd -->
