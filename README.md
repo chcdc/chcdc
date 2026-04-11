@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Overton</br><img src=https://imgs.xkcd.com/comics/overton.png></br><font size =2>alt: I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.</br></font></p></table></p> 
+<p align="center">Lightning</br><img src=https://imgs.xkcd.com/comics/lightning.png></br><font size =2>alt: Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
