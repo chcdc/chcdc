@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Lightning</br><img src=https://imgs.xkcd.com/comics/lightning.png></br><font size =2>alt: Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.</br></font></p></table></p> 
+<p align="center">Countdown Standard</br><img src=https://imgs.xkcd.com/comics/countdown_standard.png></br><font size =2>alt: Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
