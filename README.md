@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Countdown Standard</br><img src=https://imgs.xkcd.com/comics/countdown_standard.png></br><font size =2>alt: Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.</br></font></p></table></p> 
+<p align="center">Make It Myself</br><img src=https://imgs.xkcd.com/comics/make_it_myself.png></br><font size =2>alt: It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</br></font></p></table></p> 
 
 
 <!-- xkcd -->
