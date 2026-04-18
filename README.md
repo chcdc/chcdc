@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Make It Myself</br><img src=https://imgs.xkcd.com/comics/make_it_myself.png></br><font size =2>alt: It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!</br></font></p></table></p> 
+<p align="center">Europa Missions</br><img src=https://imgs.xkcd.com/comics/europa_missions.png></br><font size =2>alt: Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
