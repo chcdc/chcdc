@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Europa Missions</br><img src=https://imgs.xkcd.com/comics/europa_missions.png></br><font size =2>alt: Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.</br></font></p></table></p> 
+<p align="center">Types of Board Game</br><img src=https://imgs.xkcd.com/comics/types_of_board_game.png></br><font size =2>alt: I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
