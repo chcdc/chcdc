@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Types of Board Game</br><img src=https://imgs.xkcd.com/comics/types_of_board_game.png></br><font size =2>alt: I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.</br></font></p></table></p> 
+<p align="center">Border Message</br><img src=https://imgs.xkcd.com/comics/border_message.png></br><font size =2>alt: Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
