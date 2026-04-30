@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Soniferous Aether</br><img src=https://imgs.xkcd.com/comics/soniferous_aether.png></br><font size =2>alt: Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.</br></font></p></table></p> 
+<p align="center">Simple Machines</br><img src=https://imgs.xkcd.com/comics/simple_machines.png></br><font size =2>alt: It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
