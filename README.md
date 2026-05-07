@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Horizontal Stabilizers</br><img src=https://imgs.xkcd.com/comics/horizontal_stabilizers.png></br><font size =2>alt: It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.</br></font></p></table></p> 
+<p align="center">Aperiodic Table</br><img src=https://imgs.xkcd.com/comics/aperiodic_table.png></br><font size =2>alt: Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
