@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Crystal Gazing</br><img src=https://imgs.xkcd.com/comics/crystal_gazing.png></br><font size =2>alt: 'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.</br></font></p></table></p> 
+<p align="center">Pullback Drive</br><img src=https://imgs.xkcd.com/comics/pullback_drive.png></br><font size =2>alt: "How does the spring not run out almost immediately?" "We pull it back REALLY far."</br></font></p></table></p> 
 
 
 <!-- xkcd -->
