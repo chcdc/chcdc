@@ -8,7 +8,7 @@
 
 
 <!-- xkcd -->
-<p align="center">Pullback Drive</br><img src=https://imgs.xkcd.com/comics/pullback_drive.png></br><font size =2>alt: "How does the spring not run out almost immediately?" "We pull it back REALLY far."</br></font></p></table></p> 
+<p align="center">Results Age</br><img src=https://imgs.xkcd.com/comics/results_age.png></br><font size =2>alt: Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.</br></font></p></table></p> 
 
 
 <!-- xkcd -->
