@@ -30,7 +30,7 @@
 │  COFFEE=required                                                     │
 │                                                                      │
 │  $ cat hobbies.txt                                                   │
-│  beekeeping · 3d printing · cars · learning new things  │
+│  beekeeping · 3d printing · cars · learning new things               │
 │                                                                      │
 │  $ cat links.txt                                                     │
 |  linkedin  linkedin.com/in/chcdc                                     │
